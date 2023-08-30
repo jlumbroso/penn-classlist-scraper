@@ -14,16 +14,15 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             url: request.url,
             filename: request.filename,
             saveAs: true
-        }, downloadId => {
-            if (chrome.runtime.lastError) {
-                console.error("Download error:", chrome.runtime.lastError);
-                sendResponse({ status: "error", message: chrome.runtime.lastError.message });
-            } else {
-                console.log("Download started with ID:", downloadId);
-                sendResponse({ status: "success", message: "Download started." });
-            }
+        }).then(downloadId => {
+            console.log("Download started with ID:", downloadId);
+            sendResponse({ status: "success", message: "Download started." });
+        }).catch(error => {
+            console.error("Download error:", error);
+            sendResponse({ status: "error", message: error.message });
         });
 
         return true;  // Keep the message channel open for the asynchronous operation
     }
 });
+
