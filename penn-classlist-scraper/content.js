@@ -1,5 +1,6 @@
+
 // **************************************************************************
-// HELPER CODE
+// HELPER METHODS
 // **************************************************************************
 
 // Function to extract data from the table row
@@ -110,24 +111,53 @@ async function fetchAllRecords() {
     return allData.filter(data => data !== null); // Filter out null entries
 }
 
-
-// **************************************************************************
-// MAIN CODE
-// **************************************************************************
-
-// Check if there are any elements with class ".pdfClassListEntry"
-const classListEntries = document.querySelectorAll('.pdfClassListEntry');
-if (classListEntries.length === 0) {
-    console.warn("No class list data found. Please ensure a proper search has been launched.");
-} else {
-    // Fetch all records and log the result
-    fetchAllRecords().then(allData => {
-        // Send the data back to background.js to trigger the download
-        chrome.runtime.sendMessage({
-            action: "downloadJSON",
-            data: allData
-        });
-    }).catch(error => {
-        console.error('Error fetching all records:', error);
-    });
+// Generate a filename based on unique sections
+function generateFilename(data) {
+    const sections = new Set(data.map(entry => entry["Registered Section"]));
+    const baseName = Array.from(sections).join("_");
+    return baseName ? `penn_class_list_data_${baseName}.json` : "penn_class_list_data.json";
 }
+
+
+// **************************************************************************
+// MESSAGE LISTENER
+// **************************************************************************
+
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    if (request.action === "startExtraction") {
+        console.log("Penn Class List Scraper: Message received. Starting data extraction...");
+
+        // Check if there are any elements with class ".pdfClassListEntry"
+        const classListEntries = document.querySelectorAll('.pdfClassListEntry');
+        if (classListEntries.length === 0) {
+            console.warn("Penn Class List Scraper: No class list data found. Please ensure a proper search has been launched.");
+            sendResponse({ status: "error", message: "No class list data found." });
+        } else {
+            fetchAllRecords().then(allData => {
+                console.log("Penn Class List Scraper: Data extraction complete. Preparing data for download...");
+            
+                const blob = new Blob([JSON.stringify(allData, null, 4)], {type: "application/json"});
+                const blobURL = URL.createObjectURL(blob);  // Convert Blob to Blob URL
+            
+                console.log("Penn Class List Scraper: Sending data for download...");
+                // Send the blob URL and filename to background.js to trigger the download
+                chrome.runtime.sendMessage({
+                    action: "downloadJSON",
+                    url: blobURL,
+                    filename: generateFilename(allData)
+                }, response => {
+                    if (chrome.runtime.lastError) {
+                        console.error("Message error:", chrome.runtime.lastError);
+                    } else if (response.status === "error") {
+                        console.error("Download error:", response.message);
+                    } else {
+                        console.log("Message received:", response.message);
+                    }
+                });
+            }).catch(error => {
+                console.error('Penn Class List Scraper: Error fetching all records:', error);
+            });            
+        }
+    }
+    return true;  // This keeps the message channel open until sendResponse is called
+});
