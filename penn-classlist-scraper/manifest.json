@@ -3,7 +3,7 @@
 
     "name": "Penn Class List Scraper",
     "author": "Jérémie Lumbroso",
-    "version": "0.12",
+    "version": "0.19",
     "description": "Download all class list data for University of Pennsylvania courses, in JSON format, to be used for other purposes (such as creating flash cards to learn student names).",
     "homepage_url": "https://github.com/jlumbroso/penn-classlist-scraper",
     "offline_enabled": true,
@@ -40,5 +40,13 @@
             "32": "favicon/favicon-32x32.png",
             "180": "favicon/apple-touch-icon.png"
         }
-    }
+    },
+
+    "web_accessible_resources": [
+        {
+            "resources": ["programData.json"],
+            "matches": ["<all_urls>"],
+            "extension_ids": ["*"]
+        }
+    ]    
 }

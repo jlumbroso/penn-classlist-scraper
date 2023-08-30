@@ -1,0 +1,6458 @@
+[
+    {
+        "program": "ACFD-CERT",
+        "title": "Academic Foundations Certificate",
+        "department": "ACFD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ACCT-BS",
+        "title": "Accounting BS",
+        "department": "ACCT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ACCT-MBA",
+        "title": "Accounting MBA",
+        "department": "ACCT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ACCT-MBA-EXEC",
+        "title": "Accounting MBA (Executive)",
+        "department": "ACCT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ACCT-PHD",
+        "title": "Accounting PHD",
+        "department": "ACCT",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "AGCS-MSN",
+        "title": "Adult Gerontology CNS Program MSN",
+        "department": "AGCS",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "OANC-CERT",
+        "title": "Adult Oncology Specialist Certificate",
+        "department": "OANC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "AGAP-MSN",
+        "title": "Adult-Gerontology Acute CareNP MSN",
+        "department": "AGAP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "AGAP-PGN",
+        "title": "Adult-Gerontology Acute CareNP PGN",
+        "department": "AGAP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "AGPP-MSN",
+        "title": "Adult-Gerontology PC NP MSN",
+        "department": "AGPP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "ARGC-CERT",
+        "title": "Adv Rsrch Trn Gen Cnslng CERT",
+        "department": "ARGC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ADS-MADS",
+        "title": "Advanced Dental Studies MADS",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-ENDO",
+        "title": "Advanced Dental Studies MADS (Endodontics)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-OMXS",
+        "title": "Advanced Dental Studies MADS (Oral & Maxillofacial Surgery)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-OMED",
+        "title": "Advanced Dental Studies MADS (Oral Medicine)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-ORTH",
+        "title": "Advanced Dental Studies MADS (Orthodontics)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-PEDD",
+        "title": "Advanced Dental Studies MADS (Pedodontics)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-PRDT",
+        "title": "Advanced Dental Studies MADS (Periodontics)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "ADS-MADS-PROS",
+        "title": "Advanced Dental Studies MADS (Prosthodontics)",
+        "department": "ADS",
+        "degreeType": "MADS"
+    },
+    {
+        "program": "APHS-CERTF",
+        "title": "Advanced Pre-Health Core Stud CERTF",
+        "department": "APHS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "APHS-PBPREP",
+        "title": "Advanced Pre-Health Core Stud PBPREP",
+        "department": "APHS",
+        "degreeType": "PBPREP"
+    },
+    {
+        "program": "APSS-CERTF",
+        "title": "Advanced Pre-Health Spec Stud CERTF",
+        "department": "APSS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "APSS-PBPREP",
+        "title": "Advanced Pre-Health Spec Stud PBPREP",
+        "department": "APSS",
+        "degreeType": "PBPREP"
+    },
+    {
+        "program": "ASCP-CERT",
+        "title": "Advanced Scientific Computing Certificate",
+        "department": "ASCP",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "AFRC-BA",
+        "title": "Africana Studies BA",
+        "department": "AFRC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "AFRC-BA-AAS",
+        "title": "Africana Studies BA (African American Studies)",
+        "department": "AFRC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "AFRC-BA-AFD",
+        "title": "Africana Studies BA (African Diaspora Studies)",
+        "department": "AFRC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "AFRC-BA-AFST",
+        "title": "Africana Studies BA (African Studies)",
+        "department": "AFRC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "AFRC-CERT",
+        "title": "Africana Studies CERT",
+        "department": "AFRC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "AFRC-PHD",
+        "title": "Africana Studies PHD",
+        "department": "AFRC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANCH-BA",
+        "title": "Ancient History BA",
+        "department": "ANCH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANCH-PHD",
+        "title": "Ancient History PHD",
+        "department": "ANCH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "VAWB-CERT",
+        "title": "Animal Welfare and Behavior Certificate",
+        "department": "VAWB",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "VAWB-MSAWB",
+        "title": "Animal Welfare and Behavior MSAWB",
+        "department": "VAWB",
+        "degreeType": "MSAWB"
+    },
+    {
+        "program": "ANTH-BA",
+        "title": "Anthropology BA",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-ARC",
+        "title": "Anthropology BA (Archaeology)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-BANT",
+        "title": "Anthropology BA (Biological Anthropology)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-CLA",
+        "title": "Anthropology BA (Cultural and Linguistic Anthro)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-EVA",
+        "title": "Anthropology BA (Environmental Anthropology)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-GAN",
+        "title": "Anthropology BA (General Anthropology)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-BA-MAGH",
+        "title": "Anthropology BA (Med Anthropology&Global Health)",
+        "department": "ANTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ANTH-PHD",
+        "title": "Anthropology PHD",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-ARC",
+        "title": "Anthropology PHD (Archaeology)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-CUL",
+        "title": "Anthropology PHD (Cultural Anthropology)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-LIN",
+        "title": "Anthropology PHD (Linguistic Anthropology)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-MEDA",
+        "title": "Anthropology PHD (Medical Anthropology)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-NONE",
+        "title": "Anthropology PHD (Non Designated)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ANTH-PHD-PHY",
+        "title": "Anthropology PHD (Physical Anthropology)",
+        "department": "ANTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ASBS-BAS",
+        "title": "Appl Science-Biomed Science BAS",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-BDS",
+        "title": "Appl Science-Biomed Science BAS (Biomed Data Sci&Cmptationl Med)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-BIR",
+        "title": "Appl Science-Biomed Science BAS (Biomed Imgng&Radiation Physics)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-BDV",
+        "title": "Appl Science-Biomed Science BAS (Biomedical Devices)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-CEB",
+        "title": "Appl Science-Biomed Science BAS (Cellular/Tissue Engin & Biomat)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-MSB",
+        "title": "Appl Science-Biomed Science BAS (Multiscale Biomechanics)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-NRE",
+        "title": "Appl Science-Biomed Science BAS (Neuroengineering)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-NONE",
+        "title": "Appl Science-Biomed Science BAS (Non Designated)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-SSB",
+        "title": "Appl Science-Biomed Science BAS (Systems and Synthetic Biology)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ASBS-BAS-TDN",
+        "title": "Appl Science-Biomed Science BAS (Therapeutics,Drug Dliv&Nanomed)",
+        "department": "ASBS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "ECAP-PHD",
+        "title": "Applied Economics PHD",
+        "department": "ECAP",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "AGEO-MSAG",
+        "title": "Applied Geosciences MSAG",
+        "department": "AGEO",
+        "degreeType": "MSAG"
+    },
+    {
+        "program": "AGEO-MSAG-EGE",
+        "title": "Applied Geosciences MSAG (Engineering Geology)",
+        "department": "AGEO",
+        "degreeType": "MSAG"
+    },
+    {
+        "program": "AGEO-MSAG-AGE",
+        "title": "Applied Geosciences MSAG (Environmental Geology)",
+        "department": "AGEO",
+        "degreeType": "MSAG"
+    },
+    {
+        "program": "AGEO-MSAG-HYD",
+        "title": "Applied Geosciences MSAG (Hydrogeology)",
+        "department": "AGEO",
+        "degreeType": "MSAG"
+    },
+    {
+        "program": "AGEO-MSAG-INDM",
+        "title": "Applied Geosciences MSAG (Individualized)",
+        "department": "AGEO",
+        "degreeType": "MSAG"
+    },
+    {
+        "program": "AMCS-MA",
+        "title": "Applied Math & Computatnl Sci. MA",
+        "department": "AMCS",
+        "degreeType": "MA"
+    },
+    {
+        "program": "AMCS-PHD",
+        "title": "Applied Math & Computatnl Sci. PHD",
+        "department": "AMCS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "APOP-CERTA",
+        "title": "Applied Positive Psychology Advanced Certificate",
+        "department": "APOP",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "APOP-CERT",
+        "title": "Applied Positive Psychology Certificate",
+        "department": "APOP",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "APP-MAPP",
+        "title": "Applied Positive Psychology MAPP",
+        "department": "APP",
+        "degreeType": "MAPP"
+    },
+    {
+        "program": "ARCH-BA",
+        "title": "Architecture BA",
+        "department": "ARCH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ARCH-BA-DSGN",
+        "title": "Architecture BA (Design)",
+        "department": "ARCH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ARCH-BA-DSI",
+        "title": "Architecture BA (Intensive Design)",
+        "department": "ARCH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ARCT-MARCH",
+        "title": "Architecture MARCH",
+        "department": "ARCT",
+        "degreeType": "MARCH"
+    },
+    {
+        "program": "ARCT-MEBD",
+        "title": "Architecture MEBD",
+        "department": "ARCT",
+        "degreeType": "MEBD"
+    },
+    {
+        "program": "ARCH-MS",
+        "title": "Architecture MS",
+        "department": "ARCH",
+        "degreeType": "MS"
+    },
+    {
+        "program": "ARCT-MSDES",
+        "title": "Architecture MSDES",
+        "department": "ARCT",
+        "degreeType": "MSDES"
+    },
+    {
+        "program": "ARCT-MSDES-AAD",
+        "title": "Architecture MSDES (Advanced Architectural Design)",
+        "department": "ARCT",
+        "degreeType": "MSDES"
+    },
+    {
+        "program": "ARCT-MSDES-EBDC",
+        "title": "Architecture MSDES (Environmental Building Design)",
+        "department": "ARCT",
+        "degreeType": "MSDES"
+    },
+    {
+        "program": "ARCT-MSDES-RAS",
+        "title": "Architecture MSDES (Robotics & Autonomous Systems)",
+        "department": "ARCT",
+        "degreeType": "MSDES"
+    },
+    {
+        "program": "ARCH-PHD",
+        "title": "Architecture PHD",
+        "department": "ARCH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "AAMW-MA",
+        "title": "Art & Archaeo Of Medit World MA",
+        "department": "AAMW",
+        "degreeType": "MA"
+    },
+    {
+        "program": "AAMW-PHD",
+        "title": "Art & Archaeology Of Mediterranean World PHD",
+        "department": "AAMW",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BADS-MBDS",
+        "title": "Behavioral & Decision Sciences MBDS",
+        "department": "BADS",
+        "degreeType": "MBDS"
+    },
+    {
+        "program": "BHEC-BS",
+        "title": "Behavioral Economics BS",
+        "department": "BHEC",
+        "degreeType": "BS"
+    },
+    {
+        "program": "BMB-PHD",
+        "title": "Biochem & Molecular Biophysics PHD",
+        "department": "BMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BCHE-BA",
+        "title": "Biochemistry BA",
+        "department": "BCHE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BE-BSE",
+        "title": "Bioengineering BSE",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-BDS",
+        "title": "Bioengineering BSE (Biomed Data Sci&Cmptationl Med)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-BIR",
+        "title": "Bioengineering BSE (Biomed Imgng&Radiation Physics)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-BDV",
+        "title": "Bioengineering BSE (Biomedical Devices)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-CEB",
+        "title": "Bioengineering BSE (Cellular/Tissue Engin & Biomat)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-MSB",
+        "title": "Bioengineering BSE (Multiscale Biomechanics)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-NRE",
+        "title": "Bioengineering BSE (Neuroengineering)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-NONE",
+        "title": "Bioengineering BSE (Non Designated)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-SSB",
+        "title": "Bioengineering BSE (Systems and Synthetic Biology)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-BSE-TDN",
+        "title": "Bioengineering BSE (Therapeutics,Drug Dliv&Nanomed)",
+        "department": "BE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "BE-MSE",
+        "title": "Bioengineering MSE",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-BDS",
+        "title": "Bioengineering MSE (Biomed Data Sci&Cmptationl Med)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-BIR",
+        "title": "Bioengineering MSE (Biomed Imgng&Radiation Physics)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-BDV",
+        "title": "Bioengineering MSE (Biomedical Devices)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-CEB",
+        "title": "Bioengineering MSE (Cellular/Tissue Engin & Biomat)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-MSB",
+        "title": "Bioengineering MSE (Multiscale Biomechanics)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-NRE",
+        "title": "Bioengineering MSE (Neuroengineering)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-NONE",
+        "title": "Bioengineering MSE (Non Designated)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-SSB",
+        "title": "Bioengineering MSE (Systems and Synthetic Biology)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-MSE-TDN",
+        "title": "Bioengineering MSE (Therapeutics,Drug Dliv&Nanomed)",
+        "department": "BE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "BE-PHD",
+        "title": "Bioengineering PHD",
+        "department": "BE",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOE-CERT",
+        "title": "Bioethics Certificate",
+        "department": "BIOE",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "BIOE-MBE",
+        "title": "Bioethics MBE",
+        "department": "BIOE",
+        "degreeType": "MBE"
+    },
+    {
+        "program": "BIOL-BA",
+        "title": "Biology BA",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-CBI",
+        "title": "Biology BA (Computational Biology)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-EBI",
+        "title": "Biology BA (Ecology & Evolutionary Biology)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-BMAT",
+        "title": "Biology BA (Mathematical Biology)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-MOD",
+        "title": "Biology BA (Mechanisms and Disease)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-MCG",
+        "title": "Biology BA (Molecular and Cell Biology)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-NRB",
+        "title": "Biology BA (Neurobiology)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-BA-NONE",
+        "title": "Biology BA (Non Designated)",
+        "department": "BIOL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOL-PHD",
+        "title": "Biology PHD",
+        "department": "BIOL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOL-PHD-CDB",
+        "title": "Biology PHD (Cell and Developmental Biology)",
+        "department": "BIOL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOL-PHD-CAMB",
+        "title": "Biology PHD (Cell and Molecular Biology)",
+        "department": "BIOL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOL-PHD-ECB",
+        "title": "Biology PHD (Ecolgy, Evolution&Biodiversity)",
+        "department": "BIOL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOL-PHD-NONE",
+        "title": "Biology PHD (Non Designated)",
+        "department": "BIOL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BMIN-CERT",
+        "title": "Biomedical Informatics Certificate",
+        "department": "BMIN",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "BMIN-MBMI",
+        "title": "Biomedical Informatics MBMI",
+        "department": "BMIN",
+        "degreeType": "MBMI"
+    },
+    {
+        "program": "BSCI-BA",
+        "title": "Biomedical Science BA",
+        "department": "BSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BIOP-BA",
+        "title": "Biophysics BA",
+        "department": "BIOP",
+        "degreeType": "BA"
+    },
+    {
+        "program": "BSTA-MS",
+        "title": "Biostatistics MS",
+        "department": "BSTA",
+        "degreeType": "MS"
+    },
+    {
+        "program": "BSTA-PHD",
+        "title": "Biostatistics PHD",
+        "department": "BSTA",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "BIOT-MBIOT",
+        "title": "Biotechnology MBIOT",
+        "department": "BIOT",
+        "degreeType": "MBIOT"
+    },
+    {
+        "program": "BIOT-MBIOT-BTT",
+        "title": "Biotechnology MBIOT (Biomedical Technologies)",
+        "department": "BIOT",
+        "degreeType": "MBIOT"
+    },
+    {
+        "program": "BIOT-MBIOT-BTP",
+        "title": "Biotechnology MBIOT (Biopharmaceuticals/Engineering)",
+        "department": "BIOT",
+        "degreeType": "MBIOT"
+    },
+    {
+        "program": "BIOT-MBIOT-MGMT",
+        "title": "Biotechnology MBIOT (Management)",
+        "department": "BIOT",
+        "degreeType": "MBIOT"
+    },
+    {
+        "program": "BIOT-MBIOT-MOLB",
+        "title": "Biotechnology MBIOT (Molecular Biology)",
+        "department": "BIOT",
+        "degreeType": "MBIOT"
+    },
+    {
+        "program": "BEPT-BS",
+        "title": "Bus Econ & Public Policy BS",
+        "department": "BEPT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "BEPT-MBA",
+        "title": "Bus Econ & Public Policy MBA",
+        "department": "BEPT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "BEPT-MBA-EXEC",
+        "title": "Bus Econ & Public Policy MBA (Executive)",
+        "department": "BEPT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "BUAN-BS",
+        "title": "Business Analytics BS",
+        "department": "BUAN",
+        "degreeType": "BS"
+    },
+    {
+        "program": "BUAN-MBA",
+        "title": "Business Analytics MBA",
+        "department": "BUAN",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "BUAN-MBA-EXEC",
+        "title": "Business Analytics MBA (Executive)",
+        "department": "BUAN",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "BEES-BS",
+        "title": "Business,Enrgy,Env&Sustnblty BS",
+        "department": "BEES",
+        "degreeType": "BS"
+    },
+    {
+        "program": "BEES-MBA",
+        "title": "Business,Enrgy,Env&Sustnblty MBA",
+        "department": "BEES",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "BEES-MBA-EXEC",
+        "title": "Business,Enrgy,Env&Sustnblty MBA (Executive)",
+        "department": "BEES",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "CAMB-PHD",
+        "title": "Cell and Molecular Biology PHD",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-CBG",
+        "title": "Cell and Molecular Biology PHD (Cancer Biology)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-CBP",
+        "title": "Cell and Molecular Biology PHD (Cell Bio,Physiology&Metabolism)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-DBI",
+        "title": "Cell and Molecular Biology PHD (Dvlpmntl,Stem Cell&Rgnrtve Bio)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-GTV",
+        "title": "Cell and Molecular Biology PHD (Gene Therapy and Vaccines)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-GGR",
+        "title": "Cell and Molecular Biology PHD (Genetics and Gene Regulation)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-MVP",
+        "title": "Cell and Molecular Biology PHD (Micro, Virology,& Parasitology)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CAMB-PHD-NONE",
+        "title": "Cell and Molecular Biology PHD (Non Designated)",
+        "department": "CAMB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CBE-BSE",
+        "title": "Chemical & Biomolecular Eng BSE",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-BSE-ETE",
+        "title": "Chemical & Biomolecular Eng BSE (Energy & Environment)",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-BSE-ENVE",
+        "title": "Chemical & Biomolecular Eng BSE (Environmental Engineering)",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-BSE-NANO",
+        "title": "Chemical & Biomolecular Eng BSE (Nanotechnology)",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-BSE-NONE",
+        "title": "Chemical & Biomolecular Eng BSE (Non Designated)",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-BSE-PBT",
+        "title": "Chemical & Biomolecular Eng BSE (Pharmaceutics & Biotechnology)",
+        "department": "CBE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CBE-MSE",
+        "title": "Chemical & Biomolecular Eng MSE",
+        "department": "CBE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "CBE-PHD",
+        "title": "Chemical & Biomolecular Eng PHD",
+        "department": "CBE",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CHSI-MCS",
+        "title": "Chemical Sciences MCS",
+        "department": "CHSI",
+        "degreeType": "MCS"
+    },
+    {
+        "program": "CHEM-BA",
+        "title": "Chemistry BA",
+        "department": "CHEM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CHEM-PHD",
+        "title": "Chemistry PHD",
+        "department": "CHEM",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CIMS-BA",
+        "title": "Cinema and Media Studies BA",
+        "department": "CIMS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CPLN-CERT",
+        "title": "City & Regional Planning Certificate",
+        "department": "CPLN",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CPLT-MCP",
+        "title": "City & Regional Planning MCP",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-HCE",
+        "title": "City & Regional Planning MCP (Housing,Community&Econ Dvlpmnt)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-LEP",
+        "title": "City & Regional Planning MCP (Land Use Environmentl Planning)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-NONE",
+        "title": "City & Regional Planning MCP (Non Designated)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-PPD",
+        "title": "City & Regional Planning MCP (Public & Private Development)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-SMT",
+        "title": "City & Regional Planning MCP (Smart Cities)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-STP",
+        "title": "City & Regional Planning MCP (Sustnble Trans&Infrstctre Plng)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-MCP-UDES",
+        "title": "City & Regional Planning MCP (Urban Design)",
+        "department": "CPLT",
+        "degreeType": "MCP"
+    },
+    {
+        "program": "CPLT-PHD",
+        "title": "City & Regional Planning PHD",
+        "department": "CPLT",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CLLN-CERTF",
+        "title": "Classical Languages CERTF",
+        "department": "CLLN",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "CLST-BA",
+        "title": "Classical Studies BA",
+        "department": "CLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CLST-BA-CLC",
+        "title": "Classical Studies BA (Classical Civilization)",
+        "department": "CLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CLST-BA-CLL",
+        "title": "Classical Studies BA (Classical Languages&Literature)",
+        "department": "CLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CLST-BA-MTA",
+        "title": "Classical Studies BA (Mediterranean Archaeology)",
+        "department": "CLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CLST-BA-NONE",
+        "title": "Classical Studies BA (Non Designated)",
+        "department": "CLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CLST-CERTF",
+        "title": "Classical Studies CERTF",
+        "department": "CLST",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "CLST-PHD",
+        "title": "Classical Studies PHD",
+        "department": "CLST",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CLCH-CERTA",
+        "title": "Climate Change Advanced Certificate",
+        "department": "CLCH",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "CLCH-CERT",
+        "title": "Climate Change Certificate",
+        "department": "CLCH",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CDSW-DSW",
+        "title": "Clinical Doctorate in SW DSW",
+        "department": "CDSW",
+        "degreeType": "DSW"
+    },
+    {
+        "program": "CEPI-CERT",
+        "title": "Clinical Epidemiology Certificate",
+        "department": "CEPI",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CEPI-MSCE",
+        "title": "Clinical Epidemiology MSCE",
+        "department": "CEPI",
+        "degreeType": "MSCE"
+    },
+    {
+        "program": "CEPI-MSCE-NONE",
+        "title": "Clinical Epidemiology MSCE (Non Designated)",
+        "department": "CEPI",
+        "degreeType": "MSCE"
+    },
+    {
+        "program": "COGS-BA",
+        "title": "Cognitive Science BA",
+        "department": "COGS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COGS-BA-CNE",
+        "title": "Cognitive Science BA (Cognitive Neuroscience)",
+        "department": "COGS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COGS-BA-CCC",
+        "title": "Cognitive Science BA (Computation and Cognition)",
+        "department": "COGS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COGS-BA-INDM",
+        "title": "Cognitive Science BA (Individualized)",
+        "department": "COGS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COGS-BA-CLM",
+        "title": "Cognitive Science BA (Language and Mind)",
+        "department": "COGS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA",
+        "title": "Communication BA",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-AVA",
+        "title": "Communication BA (Advocacy & Activism)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-AUP",
+        "title": "Communication BA (Audiences & Persuasion)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-COP",
+        "title": "Communication BA (Communication & Public Service)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-CLS",
+        "title": "Communication BA (Culture & Society)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-DNS",
+        "title": "Communication BA (Data & Network Science)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-GEN",
+        "title": "Communication BA (General)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-NONE",
+        "title": "Communication BA (Non Designated)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-BA-POP",
+        "title": "Communication BA (Politics & Policy)",
+        "department": "COMM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "COMM-PHD",
+        "title": "Communication PHD",
+        "department": "COMM",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CGGT-MSE",
+        "title": "Comp Graphics & Game Tech MSE",
+        "department": "CGGT",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "COML-PHD",
+        "title": "Comparative Lit & Theory PHD",
+        "department": "COML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CMPL-BA",
+        "title": "Comparative Literature BA",
+        "department": "CMPL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CMPL-BA-TNL",
+        "title": "Comparative Literature BA ((Trans)National Literatures)",
+        "department": "CMPL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CMPL-BA-CGL",
+        "title": "Comparative Literature BA (Globalization)",
+        "department": "CMPL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CMPL-BA-THR",
+        "title": "Comparative Literature BA (Theory)",
+        "department": "CMPL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CIS-MS",
+        "title": "Computer & Information Science MS",
+        "department": "CIS",
+        "degreeType": "MS"
+    },
+    {
+        "program": "CIS-MSE",
+        "title": "Computer & Information Science MSE",
+        "department": "CIS",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "CIS-PHD",
+        "title": "Computer & Information Science PHD",
+        "department": "CIS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CMPE-BSE",
+        "title": "Computer Engineering BSE",
+        "department": "CMPE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "ASCS-BAS",
+        "title": "Computer Science BAS",
+        "department": "ASCS",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "CSCI-BSE",
+        "title": "Computer Science BSE",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-ARIN",
+        "title": "Computer Science BSE (Artificial Intelligence)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-COGS",
+        "title": "Computer Science BSE (Cognitive Science)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-CBI",
+        "title": "Computer Science BSE (Computational Biology)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-CMV",
+        "title": "Computer Science BSE (Computer Vision)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-DATS",
+        "title": "Computer Science BSE (Data Science)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-NONE",
+        "title": "Computer Science BSE (Non Designated)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-SFF",
+        "title": "Computer Science BSE (Software Foundations)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCI-BSE-SYS",
+        "title": "Computer Science BSE (Systems)",
+        "department": "CSCI",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "CSCF-CERT",
+        "title": "Computer Science Fundamentals CERT",
+        "department": "CSCF",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CIT-MCIT",
+        "title": "Computer and Information Technology MCIT",
+        "department": "CIT",
+        "degreeType": "MCIT"
+    },
+    {
+        "program": "CMHS-MSED",
+        "title": "Counsel Mental Hlth Services MSED",
+        "department": "CMHS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "CRST-BAAS",
+        "title": "Creative Studies BAAS",
+        "department": "CRST",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "CRWR-CERTA",
+        "title": "Creative Writing Advanced Certificate",
+        "department": "CRWR",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "CRWR-CERT",
+        "title": "Creative Writing Certificate",
+        "department": "CRWR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CRIM-BA",
+        "title": "Criminology BA",
+        "department": "CRIM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "CRIM-MS",
+        "title": "Criminology MS",
+        "department": "CRIM",
+        "degreeType": "MS"
+    },
+    {
+        "program": "CRIM-PHD",
+        "title": "Criminology PHD",
+        "department": "CRIM",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "CCAF-CERT",
+        "title": "Critical Care Adv Prac Fellows Certificate",
+        "department": "CCAF",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CCAF-CERT-INFD",
+        "title": "Critical Care Adv Prac Fellows Certificate (Infectious Diseases)",
+        "department": "CCAF",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "CCAF-CERT-NONE",
+        "title": "Critical Care Adv Prac Fellows Certificate (Non Designated)",
+        "department": "CCAF",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DATA-CERTA",
+        "title": "Data Analytics Advanced Certificate",
+        "department": "DATA",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "DATA-CERT",
+        "title": "Data Analytics Certificate",
+        "department": "DATA",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DAPS-BAAS",
+        "title": "Data Anlytcs & Psyc Sciences BAAS",
+        "department": "DAPS",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "DASS-BAAS",
+        "title": "Data Anlytcs & Social Sciences BAAS",
+        "department": "DASS",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "DATS-CERT",
+        "title": "Data Science Certificate",
+        "department": "DATS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DATS-MSE",
+        "title": "Data Science MSE",
+        "department": "DATS",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "DEMG-PHD",
+        "title": "Demography PHD",
+        "department": "DEMG",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "DSCD-DSCD",
+        "title": "Dental Science DSCD",
+        "department": "DSCD",
+        "degreeType": "DSCD"
+    },
+    {
+        "program": "DENT-DMD",
+        "title": "Dentistry DMD",
+        "department": "DENT",
+        "degreeType": "DMD"
+    },
+    {
+        "program": "DSGN-BA",
+        "title": "Design BA",
+        "department": "DSGN",
+        "degreeType": "BA"
+    },
+    {
+        "program": "DMD-BSE",
+        "title": "Digital Media Design BSE",
+        "department": "DMD",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "DGST-CERT",
+        "title": "Digital Strategies CERT",
+        "department": "DGST",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DGST-CERTA",
+        "title": "Digital Strategies CERTA",
+        "department": "DGST",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "DSC-CERT",
+        "title": "Digital Strategies and Culture Certificate",
+        "department": "DSC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DEI-BS",
+        "title": "Diversity, Equity and Inclusn BS",
+        "department": "DEI",
+        "degreeType": "BS"
+    },
+    {
+        "program": "DEI-MBA",
+        "title": "Diversity, Equity and Inclusn MBA",
+        "department": "DEI",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "DEI-MBA-EXEC",
+        "title": "Diversity, Equity and Inclusn MBA (Executive)",
+        "department": "DEI",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ESL-CERT",
+        "title": "ESL Specialist Certification Certificate",
+        "department": "ESL",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EACT-CERT",
+        "title": "EXACT-Expernc in Appl Comp Thn CERT",
+        "department": "EACT",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EESC-BA",
+        "title": "Earth and Environmntl Science BA",
+        "department": "EESC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "EESC-PHD",
+        "title": "Earth and Environmntl Science PHD",
+        "department": "EESC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EALC-BA",
+        "title": "East Asian Lang & Civilization BA",
+        "department": "EALC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "EALC-BA-DUL",
+        "title": "East Asian Lang & Civilization BA (Dual Language)",
+        "department": "EALC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "EALC-BA-EAST",
+        "title": "East Asian Lang & Civilization BA (East Asian Area Studies)",
+        "department": "EALC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "EALC-BA-NONE",
+        "title": "East Asian Lang & Civilization BA (Non Designated)",
+        "department": "EALC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "EALC-MA",
+        "title": "East Asian Lang & Civilization MA",
+        "department": "EALC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "EALC-PHD",
+        "title": "East Asian Lang & Civilization PHD",
+        "department": "EALC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EARC-CERT",
+        "title": "Ecological Architecture Certificate",
+        "department": "EARC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ECPL-CERT",
+        "title": "Ecological Planning Certificate",
+        "department": "ECPL",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EDGR-CERT",
+        "title": "Economic Development & Growth Certificate",
+        "department": "EDGR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ECOQ-BA",
+        "title": "Economics BA",
+        "department": "ECOQ",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ECOQ-PHD",
+        "title": "Economics PHD",
+        "department": "ECOQ",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDOL-CAS",
+        "title": "Edu & Organizational Ldrshp CAS",
+        "department": "EDOL",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "EDOL-EDD",
+        "title": "Edu & Organizational Ldrshp EDD",
+        "department": "EDOL",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "EDCE-CERT",
+        "title": "Educ-Continuing Education CERT",
+        "department": "EDCE",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EDCS-MSED",
+        "title": "Education - Culture & Society MSED",
+        "department": "EDCS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EDCS-MSED-CAS",
+        "title": "Education - Culture & Society MSED (Community Action & Soci Change)",
+        "department": "EDCS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EDCS-MSED-NONE",
+        "title": "Education - Culture & Society MSED (Non Designated)",
+        "department": "EDCS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EDUC-CAS",
+        "title": "Education CAS",
+        "department": "EDUC",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "EDUC-CERT",
+        "title": "Education Certificate",
+        "department": "EDUC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EDEN-MSED",
+        "title": "Education Entrepreneurship MSED",
+        "department": "EDEN",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EDUC-PHD",
+        "title": "Education PHD",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUI-PHD",
+        "title": "Education PHD",
+        "department": "EDUI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUL-PHD",
+        "title": "Education PHD",
+        "department": "EDUL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUQ-PHD",
+        "title": "Education PHD",
+        "department": "EDUQ",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-EPO",
+        "title": "Education PHD (Education Policy)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-EDLI",
+        "title": "Education PHD (Educational Linguistics)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-ECS",
+        "title": "Education PHD (Educationculture & Society)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-HED",
+        "title": "Education PHD (Higher Education)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUI-PHD-ISHD",
+        "title": "Education PHD (Interdis Studies Human Devlpmt)",
+        "department": "EDUI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUL-PHD-LST",
+        "title": "Education PHD (Learning Sci &Technologies)",
+        "department": "EDUL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUQ-PHD-QMD",
+        "title": "Education PHD (Quantitative Methods)",
+        "department": "EDUQ",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-RWRL",
+        "title": "Education PHD (Reading/Writing/Literacy)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDUC-PHD-TLTE",
+        "title": "Education PHD (Teaching Learning & TeacherEdu)",
+        "department": "EDUC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EDPL-MSED",
+        "title": "Education Policy MSED",
+        "department": "EDPL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EDLD-CAS",
+        "title": "Educational Leadership CAS",
+        "department": "EDLD",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "EDLD-EDD",
+        "title": "Educational Leadership EDD",
+        "department": "EDLD",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "EDLI-EDD",
+        "title": "Educational Linguistics EDD",
+        "department": "EDLI",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "ESE-PHD",
+        "title": "Electrical & Systems Engin PHD",
+        "department": "ESE",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "EE-BSE",
+        "title": "Electrical Engineering BSE",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-DATS",
+        "title": "Electrical Engineering BSE (Data Science)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-MSN",
+        "title": "Electrical Engineering BSE (Microsystems & Nanotechnology)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-MRC",
+        "title": "Electrical Engineering BSE (Mixed-Signal & RF Intgr Circts)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-NONE",
+        "title": "Electrical Engineering BSE (Non Designated)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-PHQ",
+        "title": "Electrical Engineering BSE (Photonics and Quantum)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-ROBO",
+        "title": "Electrical Engineering BSE (Robotics)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-BSE-CHD",
+        "title": "Electrical Engineering BSE (System-on-A-Chip Design)",
+        "department": "EE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "EE-MSE",
+        "title": "Electrical Engineering MSE",
+        "department": "EE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "ELED-MSED",
+        "title": "Elementary Education MSED",
+        "department": "ELED",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "EMBS-MSE",
+        "title": "Embedded Systems MSE",
+        "department": "EMBS",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "EMDR-CERT",
+        "title": "Emerging Design And Research Certificate",
+        "department": "EMDR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ENDO-CERTF",
+        "title": "Endodontics Certificate",
+        "department": "ENDO",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "ENMG-CERT",
+        "title": "Energy Management & Policy Certificate",
+        "department": "ENMG",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EENT-CERT",
+        "title": "Engineering Entrepreneurship Certificate",
+        "department": "EENT",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ENGL-BA",
+        "title": "English BA",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-ENC",
+        "title": "English BA (18th/19th Centuries)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-TFC",
+        "title": "English BA (20th and 21st Centuries)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-AFA",
+        "title": "English BA (Africana Literatures & Culture)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-CIMS",
+        "title": "English BA (Cinema and Media Studies)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-CRWR",
+        "title": "English BA (Creative Writing)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-DRA",
+        "title": "English BA (Drama)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-GSX",
+        "title": "English BA (Gender/Sexuality)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-LJP",
+        "title": "English BA (Lit, Journalism&Print Culture)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-LTC",
+        "title": "English BA (Literary Theory &Cultural Stds)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-MER",
+        "title": "English BA (Medieval/Renaissance)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-NONE",
+        "title": "English BA (Non Designated)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-PET",
+        "title": "English BA (Poetry and Poetics)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-BA-NOV",
+        "title": "English BA (The Novel)",
+        "department": "ENGL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENGL-MA",
+        "title": "English MA",
+        "department": "ENGL",
+        "degreeType": "MA"
+    },
+    {
+        "program": "ENGL-PHD",
+        "title": "English PHD",
+        "department": "ENGL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ENTI-BS",
+        "title": "Entrepreneurship & Innovation BS",
+        "department": "ENTI",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ENTI-MBA",
+        "title": "Entrepreneurship & Innovation MBA",
+        "department": "ENTI",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ENTI-MBA-EXEC",
+        "title": "Entrepreneurship & Innovation MBA (Executive)",
+        "department": "ENTI",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ESGB-BS",
+        "title": "Envi, Soc, Gov Factors Bus BS",
+        "department": "ESGB",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ESGB-BS-BEES",
+        "title": "Envi, Soc, Gov Factors Bus BS (Business,Enrgy,Env&Sustnblty)",
+        "department": "ESGB",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ESGB-BS-GEN",
+        "title": "Envi, Soc, Gov Factors Bus BS (General)",
+        "department": "ESGB",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ESGB-BS-SOGO",
+        "title": "Envi, Soc, Gov Factors Bus BS (Social and Gov Factors Bus)",
+        "department": "ESGB",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ESGB-MBA",
+        "title": "Envi, Soc, Gov Factors Bus MBA",
+        "department": "ESGB",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ESGB-MBA-EXEC",
+        "title": "Envi, Soc, Gov Factors Bus MBA (Executive)",
+        "department": "ESGB",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "EBDC-CERT",
+        "title": "Environmental Building Design Certificate",
+        "department": "EBDC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EHS-CERT",
+        "title": "Environmental Health Sciences Certificate",
+        "department": "EHS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ENVS-BA",
+        "title": "Environmental Studies BA",
+        "department": "ENVS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENVS-BA-EHR",
+        "title": "Environmental Studies BA (Environ History&Regnal Studies)",
+        "department": "ENVS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENVS-BA-EPA",
+        "title": "Environmental Studies BA (Environmntl Policy&Application)",
+        "department": "ENVS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENVS-BA-GES",
+        "title": "Environmental Studies BA (Global Environmental Systems)",
+        "department": "ENVS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENVS-BA-SVM",
+        "title": "Environmental Studies BA (Sustainability & Environ Mgmnt)",
+        "department": "ENVS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ENST-MES",
+        "title": "Environmental Studies MES",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ENRA",
+        "title": "Environmental Studies MES (Environ. Resilience&Adaptation)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ENBI",
+        "title": "Environmental Studies MES (Environmental Biology)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ENHE",
+        "title": "Environmental Studies MES (Environmental Health)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ENPO",
+        "title": "Environmental Studies MES (Environmental Policy)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ESUS",
+        "title": "Environmental Studies MES (Environmental Sustainability)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-ENIN",
+        "title": "Environmental Studies MES (Individualized Environmental)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-NONE",
+        "title": "Environmental Studies MES (Non Designated)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-RMAN",
+        "title": "Environmental Studies MES (Resource Management)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "ENST-MES-UENV",
+        "title": "Environmental Studies MES (Urban Environment)",
+        "department": "ENST",
+        "degreeType": "MES"
+    },
+    {
+        "program": "EPID-PHD",
+        "title": "Epidemiology PHD",
+        "department": "EPID",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ETLS-PHD",
+        "title": "Ethics and Legal Studies PHD",
+        "department": "ETLS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MPAE-MPA",
+        "title": "Exec Gov Administration-FELS MPA",
+        "department": "MPAE",
+        "degreeType": "MPA"
+    },
+    {
+        "program": "EXLD-DNP",
+        "title": "Executive Leadership DNP",
+        "department": "EXLD",
+        "degreeType": "DNP"
+    },
+    {
+        "program": "FNPP-MSN",
+        "title": "Family NP Program MSN",
+        "department": "FNPP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "FNCS-BS",
+        "title": "Finance BS",
+        "department": "FNCS",
+        "degreeType": "BS"
+    },
+    {
+        "program": "FNCS-MBA",
+        "title": "Finance MBA",
+        "department": "FNCS",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "FNCS-MBA-EXEC",
+        "title": "Finance MBA (Executive)",
+        "department": "FNCS",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "FNCS-PHD",
+        "title": "Finance PHD",
+        "department": "FNCS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "FNAR-BA",
+        "title": "Fine Arts BA",
+        "department": "FNAR",
+        "degreeType": "BA"
+    },
+    {
+        "program": "FNAR-BFA",
+        "title": "Fine Arts BFA",
+        "department": "FNAR",
+        "degreeType": "BFA"
+    },
+    {
+        "program": "FNAR-MFA",
+        "title": "Fine Arts MFA",
+        "department": "FNAR",
+        "degreeType": "MFA"
+    },
+    {
+        "program": "FNAR-MFA-NONE",
+        "title": "Fine Arts MFA (Non Designated)",
+        "department": "FNAR",
+        "degreeType": "MFA"
+    },
+    {
+        "program": "FIGS-PHD",
+        "title": "Franc, Ital and Germanic St PHD",
+        "department": "FIGS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "FIGS-PHD-FRFS",
+        "title": "Franc, Ital and Germanic St PHD (French and Francophone Studies)",
+        "department": "FIGS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "FIGS-PHD-GMCS",
+        "title": "Franc, Ital and Germanic St PHD (Germanic Studies)",
+        "department": "FIGS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "FIGS-PHD-ITST",
+        "title": "Franc, Ital and Germanic St PHD (Italian Studies)",
+        "department": "FIGS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "FRFS-BA",
+        "title": "French and Francophone Studies BA",
+        "department": "FRFS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GIS-CERT",
+        "title": "GIS & Spatial Analysis Certificate",
+        "department": "GIS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "GSWS-BA",
+        "title": "Gen, Sexuality & Women's Sts BA",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GSWS-BA-FMS",
+        "title": "Gen, Sexuality & Women's Sts BA (Feminist Studies)",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GSWS-BA-GGS",
+        "title": "Gen, Sexuality & Women's Sts BA (Global Gender & Sexuality Stud)",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GSWS-BA-HDB",
+        "title": "Gen, Sexuality & Women's Sts BA (Health and Disability)",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GSWS-BA-LGB",
+        "title": "Gen, Sexuality & Women's Sts BA (LGBTQ Studies)",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GSWS-BA-IND",
+        "title": "Gen, Sexuality & Women's Sts BA (Self Designed)",
+        "department": "GSWS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GENC-MSGC",
+        "title": "Genetic Counseling MSGC",
+        "department": "GENC",
+        "degreeType": "MSGC"
+    },
+    {
+        "program": "GCB-PHD",
+        "title": "Genomics & Computational Bio PHD",
+        "department": "GCB",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "GRMN-BA",
+        "title": "German BA",
+        "department": "GRMN",
+        "degreeType": "BA"
+    },
+    {
+        "program": "GRMN-PHD",
+        "title": "German PHD",
+        "department": "GRMN",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "GMRS-CERT",
+        "title": "Glo Medieval Renaissance St CERT",
+        "department": "GMRS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "GLBH-CERT",
+        "title": "Global Health Certificate",
+        "department": "GLBH",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "GHEM-MSED",
+        "title": "Global Higher Ed Mgmt MSED",
+        "department": "GHEM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MPAG-MPA",
+        "title": "Global MPA MPA",
+        "department": "MPAG",
+        "degreeType": "MPA"
+    },
+    {
+        "program": "GRS-CERTA",
+        "title": "Global and Regional Studies Advanced Certificate",
+        "department": "GRS",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "GRS-CERT",
+        "title": "Global and Regional Studies Certificate",
+        "department": "GRS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "GAFL-MPA",
+        "title": "Gov Administration - FELS MPA",
+        "department": "GAFL",
+        "degreeType": "MPA"
+    },
+    {
+        "program": "MPAF-MPA",
+        "title": "Gov Administration - FELS MPA",
+        "department": "MPAF",
+        "degreeType": "MPA"
+    },
+    {
+        "program": "GTMS-CERT",
+        "title": "Graduate Training in Medical Science Certificate",
+        "department": "GTMS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "GREK-CERTF",
+        "title": "Greek CERTF",
+        "department": "GREK",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "HSOC-BA",
+        "title": "Health & Societies BA",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-BES",
+        "title": "Health & Societies BA (Bioethics and Society)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-DCL",
+        "title": "Health & Societies BA (Disease and Culture)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-GLBH",
+        "title": "Health & Societies BA (Global Health)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-HMF",
+        "title": "Health & Societies BA (Health Care Markets & Finance)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-HPP",
+        "title": "Health & Societies BA (Health Policy & Law)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-NONE",
+        "title": "Health & Societies BA (Non Designated)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-PBHC",
+        "title": "Health & Societies BA (Public Health)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSOC-BA-RGH",
+        "title": "Health & Societies BA (Race, Gender, and Health)",
+        "department": "HSOC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HCIC-CERT",
+        "title": "Health Care Innovation Certificate",
+        "department": "HCIC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "HCIM-MHCI",
+        "title": "Health Care Innovation MHCI",
+        "department": "HCIM",
+        "degreeType": "MHCI"
+    },
+    {
+        "program": "HCMG-BS",
+        "title": "Health Care Management BS",
+        "department": "HCMG",
+        "degreeType": "BS"
+    },
+    {
+        "program": "HCMG-MBA",
+        "title": "Health Care Management MBA",
+        "department": "HCMG",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "HCMG-MBA-EXEC",
+        "title": "Health Care Management MBA (Executive)",
+        "department": "HCMG",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "HCMG-PHD",
+        "title": "Health Care Management PHD",
+        "department": "HCMG",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "HPR-MPR",
+        "title": "Health Policy Research MPR",
+        "department": "HPR",
+        "degreeType": "MPR"
+    },
+    {
+        "program": "HPR-MPR-HQS",
+        "title": "Health Policy Research MPR (Healthcare Quality and Safety)",
+        "department": "HPR",
+        "degreeType": "MPR"
+    },
+    {
+        "program": "HPR-MPR-NONE",
+        "title": "Health Policy Research MPR (Non Designated)",
+        "department": "HPR",
+        "degreeType": "MPR"
+    },
+    {
+        "program": "HQS-CERT",
+        "title": "Healthcare Quality and Safety Certificate",
+        "department": "HQS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "HQS-MHQS",
+        "title": "Healthcare Quality and Safety MHQS",
+        "department": "HQS",
+        "degreeType": "MHQS"
+    },
+    {
+        "program": "HIED-CAS",
+        "title": "Higher Education Admin CAS",
+        "department": "HIED",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "HED-EDD",
+        "title": "Higher Education EDD",
+        "department": "HED",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "HED-MSED",
+        "title": "Higher Education MSED",
+        "department": "HED",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "HEEM-EDD",
+        "title": "Higher Education Management EDD",
+        "department": "HEEM",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "HSPN-BA",
+        "title": "Hispanic Studies BA",
+        "department": "HSPN",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HSPV-CERT",
+        "title": "Historic Preservation Certificate",
+        "department": "HSPV",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "HSPV-MSDES",
+        "title": "Historic Preservation MSDES",
+        "department": "HSPV",
+        "degreeType": "MSDES"
+    },
+    {
+        "program": "HSPV-MSHP",
+        "title": "Historic Preservation MSHP",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSPV-MSHP-ACV",
+        "title": "Historic Preservation MSHP (Architectural Conservation)",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSPV-MSHP-NONE",
+        "title": "Historic Preservation MSHP (Non Designated)",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSPV-MSHP-PDS",
+        "title": "Historic Preservation MSHP (Preservation Design)",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSPV-MSHP-PPL",
+        "title": "Historic Preservation MSHP (Preservation Planning)",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSPV-MSHP-PHE",
+        "title": "Historic Preservation MSHP (Public Hist of the Built Envir)",
+        "department": "HSPV",
+        "degreeType": "MSHP"
+    },
+    {
+        "program": "HSSC-PHD",
+        "title": "History & Sociology of Science PHD",
+        "department": "HSSC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "HIST-BA",
+        "title": "History BA",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-AMH",
+        "title": "History BA (American History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-DPH",
+        "title": "History BA (Diplomatic History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-ECH",
+        "title": "History BA (Economic History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-EUH",
+        "title": "History BA (European History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-GND",
+        "title": "History BA (Gender History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-ILH",
+        "title": "History BA (Intellectual History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-JHS",
+        "title": "History BA (Jewish History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-NONE",
+        "title": "History BA (Non Designated)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-BA-WLD",
+        "title": "History BA (World History)",
+        "department": "HIST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "HIST-MA",
+        "title": "History MA",
+        "department": "HIST",
+        "degreeType": "MA"
+    },
+    {
+        "program": "HIST-PHD",
+        "title": "History PHD",
+        "department": "HIST",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ARTH-BA",
+        "title": "History of Art BA",
+        "department": "ARTH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ARTH-MA",
+        "title": "History of Art MA",
+        "department": "ARTH",
+        "degreeType": "MA"
+    },
+    {
+        "program": "ARTH-PHD",
+        "title": "History of Art PHD",
+        "department": "ARTH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "HCSY-PHD",
+        "title": "Hlth Care Mgmt & Economics PHD",
+        "department": "HCSY",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "HCMP-BS",
+        "title": "Hlth Care Mgmt and Policy BS",
+        "department": "HCMP",
+        "degreeType": "BS"
+    },
+    {
+        "program": "HLMP-MSN",
+        "title": "Hlth Leadership Master's Pgm MSN",
+        "department": "HLMP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "IMUN-PHD",
+        "title": "Immunology PHD",
+        "department": "IMUN",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "IMP-CERT",
+        "title": "Implementation Science Certificate",
+        "department": "IMP",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "ISTR-MSED",
+        "title": "Indepndnt Schl Tchng Residency MSED",
+        "department": "ISTR",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISTR-MSED-EBD",
+        "title": "Indepndnt Schl Tchng Residency MSED (Boarding School)",
+        "department": "ISTR",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISTR-MSED-EDY",
+        "title": "Indepndnt Schl Tchng Residency MSED (Day School)",
+        "department": "ISTR",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISTR-MSED-NONE",
+        "title": "Indepndnt Schl Tchng Residency MSED (Non Designated)",
+        "department": "ISTR",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "INDM-BA",
+        "title": "Individualized BA",
+        "department": "INDM",
+        "degreeType": "BA"
+    },
+    {
+        "program": "INDM-BAS",
+        "title": "Individualized BAS",
+        "department": "INDM",
+        "degreeType": "BAS"
+    },
+    {
+        "program": "INDM-BS",
+        "title": "Individualized BS",
+        "department": "INDM",
+        "degreeType": "BS"
+    },
+    {
+        "program": "INDM-BSE",
+        "title": "Individualized BSE",
+        "department": "INDM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "INDM-MBA-EXEC",
+        "title": "Individualized MBA (Executive)",
+        "department": "INDM",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "INDM-MPHIL",
+        "title": "Individualized MPHIL",
+        "department": "INDM",
+        "degreeType": "MPHIL"
+    },
+    {
+        "program": "INDV-BAAS",
+        "title": "Individualized Studies BAAS",
+        "department": "INDV",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "ASDN-CERT",
+        "title": "Integ Nursing Care of Autism Certificate",
+        "department": "ASDN",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "IPD-CERT",
+        "title": "Integrated Product Design Certificate",
+        "department": "IPD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "IPD-MIPD",
+        "title": "Integrated Product Design MIPD",
+        "department": "IPD",
+        "degreeType": "MIPD"
+    },
+    {
+        "program": "IPD-MSE",
+        "title": "Integrated Product Design MSE",
+        "department": "IPD",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "INTC-MSED",
+        "title": "Intercultural Communication MSED",
+        "department": "INTC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISHD-MSED",
+        "title": "Interdis Studies Human Devlpmt MSED",
+        "department": "ISHD",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISHD-MSED-ADC",
+        "title": "Interdis Studies Human Devlpmt MSED (Appld Develop & Counsel Skills)",
+        "department": "ISHD",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISHD-MSED-NONE",
+        "title": "Interdis Studies Human Devlpmt MSED (Non Designated)",
+        "department": "ISHD",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ISHD-MSED-SCA",
+        "title": "Interdis Studies Human Devlpmt MSED (SocCog & AffectiveNeurosciCert)",
+        "department": "ISHD",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "IEDP-MSED",
+        "title": "International Edu Dvpmt MSED",
+        "department": "IEDP",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MPAI-MPA",
+        "title": "International MPA MPA",
+        "department": "MPAI",
+        "degreeType": "MPA"
+    },
+    {
+        "program": "INTR-BA",
+        "title": "International Relations BA",
+        "department": "INTR",
+        "degreeType": "BA"
+    },
+    {
+        "program": "INTS-MA",
+        "title": "International Studies MA",
+        "department": "INTS",
+        "degreeType": "MA"
+    },
+    {
+        "program": "ITST-BA",
+        "title": "Italian Studies BA",
+        "department": "ITST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ITST-BA-ITCL",
+        "title": "Italian Studies BA (Italian Culture)",
+        "department": "ITST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ITST-BA-ITLT",
+        "title": "Italian Studies BA (Italian Literature)",
+        "department": "ITST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ITST-BA-NONE",
+        "title": "Italian Studies BA (Non Designated)",
+        "department": "ITST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "JWST-BA",
+        "title": "Jewish Studies BA",
+        "department": "JWST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "LAPV-CERT",
+        "title": "Land Preservation Certificate",
+        "department": "LAPV",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "LART-MLA",
+        "title": "Landscape Arch & Regl Plng MLA",
+        "department": "LART",
+        "degreeType": "MLA"
+    },
+    {
+        "program": "LANS-CERT",
+        "title": "Landscape Studies Certificate",
+        "department": "LANS",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "LALX-BA",
+        "title": "Latin American and Latinx Stds BA",
+        "department": "LALX",
+        "degreeType": "BA"
+    },
+    {
+        "program": "LATN-CERTF",
+        "title": "Latin CERTF",
+        "department": "LATN",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "LAW-CERT",
+        "title": "Law Certificate",
+        "department": "LAW",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "LAW-JD",
+        "title": "Law JD",
+        "department": "LAW",
+        "degreeType": "JD"
+    },
+    {
+        "program": "LAW-LLCM",
+        "title": "Law LLCM",
+        "department": "LAW",
+        "degreeType": "LLCM"
+    },
+    {
+        "program": "LAW-LLM",
+        "title": "Law LLM",
+        "department": "LAW",
+        "degreeType": "LLM"
+    },
+    {
+        "program": "LAW-LLM-GSHR",
+        "title": "Law LLM (Glbl Sec Sustain Human Rights)",
+        "department": "LAW",
+        "degreeType": "LLM"
+    },
+    {
+        "program": "LAW-LLM-IPTL",
+        "title": "Law LLM (Intel Property Tech Law)",
+        "department": "LAW",
+        "degreeType": "LLM"
+    },
+    {
+        "program": "LAW-LLM-NONE",
+        "title": "Law LLM (Non Designated)",
+        "department": "LAW",
+        "degreeType": "LLM"
+    },
+    {
+        "program": "LAW-MLAW",
+        "title": "Law MLAW",
+        "department": "LAW",
+        "degreeType": "MLAW"
+    },
+    {
+        "program": "LAW-SJD",
+        "title": "Law SJD",
+        "department": "LAW",
+        "degreeType": "SJD"
+    },
+    {
+        "program": "LEAD-CERTA",
+        "title": "Leadership & Communication Advanced Certificate",
+        "department": "LEAD",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "LEAD-BAAS",
+        "title": "Leadership & Communication BAAS",
+        "department": "LEAD",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "LEAD-CERT",
+        "title": "Leadership & Communication Certificate",
+        "department": "LEAD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "LRAN-MSED",
+        "title": "Learning Analytics MSED",
+        "department": "LRAN",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "LST-MSED",
+        "title": "Learning Sci &Technologies MSED",
+        "department": "LST",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "LGST-BS",
+        "title": "Legal Stds & Bus Ethics BS",
+        "department": "LGST",
+        "degreeType": "BS"
+    },
+    {
+        "program": "LAIN-MLIBA",
+        "title": "Liberal Arts Individualized MLIBA",
+        "department": "LAIN",
+        "degreeType": "MLIBA"
+    },
+    {
+        "program": "LAIN-MPHIL",
+        "title": "Liberal Arts Individualized MPHIL",
+        "department": "LAIN",
+        "degreeType": "MPHIL"
+    },
+    {
+        "program": "LIBS-PHD",
+        "title": "Liberal Studies PHD",
+        "department": "LIBS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "LING-BA",
+        "title": "Linguistics BA",
+        "department": "LING",
+        "degreeType": "BA"
+    },
+    {
+        "program": "LING-MA",
+        "title": "Linguistics MA",
+        "department": "LING",
+        "degreeType": "MA"
+    },
+    {
+        "program": "LING-PHD",
+        "title": "Linguistics PHD",
+        "department": "LING",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "LCTR-BAAS",
+        "title": "Lit, Culture, & Tradition BAAS",
+        "department": "LCTR",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "LOGC-BA",
+        "title": "Logic Info & Computation BA",
+        "department": "LOGC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MGMT-BS",
+        "title": "Management BS",
+        "department": "MGMT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MGMT-BS-MNMT",
+        "title": "Management BS (Multinational Management)",
+        "department": "MGMT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MGMT-BS-NONE",
+        "title": "Management BS (Non Designated)",
+        "department": "MGMT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MGMT-BS-ORGS",
+        "title": "Management BS (Organizational Effectiveness)",
+        "department": "MGMT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MGMT-BS-SMGT",
+        "title": "Management BS (Strategic Management)",
+        "department": "MGMT",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MGMT-MBA",
+        "title": "Management MBA",
+        "department": "MGMT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MGMT-MBA-EXEC",
+        "title": "Management MBA (Executive)",
+        "department": "MGMT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MGTS-PHD",
+        "title": "Management PHD",
+        "department": "MGTS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MKCM-BS",
+        "title": "Marketing & Communication BS",
+        "department": "MKCM",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MAOM-BS",
+        "title": "Marketing & Operations Mgmt BS",
+        "department": "MAOM",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MAOM-MBA",
+        "title": "Marketing & Operations Mgmt MBA",
+        "department": "MAOM",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MAOM-MBA-EXEC",
+        "title": "Marketing & Operations Mgmt MBA (Executive)",
+        "department": "MAOM",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MKTG-BS",
+        "title": "Marketing BS",
+        "department": "MKTG",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MKTG-MBA",
+        "title": "Marketing MBA",
+        "department": "MKTG",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MKTG-MBA-EXEC",
+        "title": "Marketing MBA (Executive)",
+        "department": "MKTG",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MKTG-PHD",
+        "title": "Marketing PHD",
+        "department": "MKTG",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MKTS-PHD",
+        "title": "Marketing PHD",
+        "department": "MKTS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MSE-BSE",
+        "title": "Materials Science & Engin BSE",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-BSE-BMBM",
+        "title": "Materials Science & Engin BSE (Biomaterials and Biomimetics)",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-BSE-EOS",
+        "title": "Materials Science & Engin BSE (Elctrn & Optic Device & Sensor)",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-BSE-ENSU",
+        "title": "Materials Science & Engin BSE (Energy & Sustainability)",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-BSE-NANO",
+        "title": "Materials Science & Engin BSE (Nanotechnology)",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-BSE-NONE",
+        "title": "Materials Science & Engin BSE (Non Designated)",
+        "department": "MSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MSE-MSE",
+        "title": "Materials Science & Engin MSE",
+        "department": "MSE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MSE-PHD",
+        "title": "Materials Science & Engin PHD",
+        "department": "MSE",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MAEC-BA",
+        "title": "Mathematical Economics BA",
+        "department": "MAEC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MATH-BA",
+        "title": "Mathematics BA",
+        "department": "MATH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MATH-BA-MBI",
+        "title": "Mathematics BA (Biological Mathematics)",
+        "department": "MATH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MATH-BA-NONE",
+        "title": "Mathematics BA (Non Designated)",
+        "department": "MATH",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MATH-MA",
+        "title": "Mathematics MA",
+        "department": "MATH",
+        "degreeType": "MA"
+    },
+    {
+        "program": "MATH-MPHIL",
+        "title": "Mathematics MPHIL",
+        "department": "MATH",
+        "degreeType": "MPHIL"
+    },
+    {
+        "program": "MATH-PHD",
+        "title": "Mathematics PHD",
+        "department": "MATH",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MEAM-BSE",
+        "title": "Mech Engr & Appl Mechanics BSE",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-BSE-DCR",
+        "title": "Mech Engr & Appl Mechanics BSE (Dynamics, Controls & Robotics)",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-BSE-EFTS",
+        "title": "Mech Engr & Appl Mechanics BSE (Energy, Fluids & Thermal Sys)",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-BSE-GEN",
+        "title": "Mech Engr & Appl Mechanics BSE (General)",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-BSE-MSD",
+        "title": "Mech Engr & Appl Mechanics BSE (Mech of Materials, Struc & Des)",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-BSE-NONE",
+        "title": "Mech Engr & Appl Mechanics BSE (Non Designated)",
+        "department": "MEAM",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "MEAM-MSE",
+        "title": "Mech Engr & Appl Mechanics MSE",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-MSE-DMF",
+        "title": "Mech Engr & Appl Mechanics MSE (Design and Manufacturing)",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-MSE-HFE",
+        "title": "Mech Engr & Appl Mechanics MSE (HeatTransf, FluidMech&Energy)",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-MSE-MOM",
+        "title": "Mech Engr & Appl Mechanics MSE (Mechanics of Materials)",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-MSE-MRS",
+        "title": "Mech Engr & Appl Mechanics MSE (Mechatronic & Robotic Systems)",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-MSE-MNS",
+        "title": "Mech Engr & Appl Mechanics MSE (Micro/Nano Systems)",
+        "department": "MEAM",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "MEAM-PHD",
+        "title": "Mech Engr & Appl Mechanics PHD",
+        "department": "MEAM",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MMED-MSED",
+        "title": "Medical Education MSED",
+        "department": "MMED",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MEDE-MSME",
+        "title": "Medical Ethics MSME",
+        "department": "MEDE",
+        "degreeType": "MSME"
+    },
+    {
+        "program": "MPHY-CERTF",
+        "title": "Medical Physics Certificate",
+        "department": "MPHY",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "MPHY-MSMP",
+        "title": "Medical Physics MSMP",
+        "department": "MPHY",
+        "degreeType": "MSMP"
+    },
+    {
+        "program": "MED-MD",
+        "title": "Medicine MD",
+        "department": "MED",
+        "degreeType": "MD"
+    },
+    {
+        "program": "MLEL-MSED",
+        "title": "Middle Level Edu: Literacy MSED",
+        "department": "MLEL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MLEM-MSED",
+        "title": "Middle Level Edu: Mathematics MSED",
+        "department": "MLEM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MLES-MSED",
+        "title": "Middle Level Edu: Science MSED",
+        "department": "MLES",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "MLSS-MSED",
+        "title": "Middle Level Edu: Social Sci MSED",
+        "department": "MLSS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "ACRL-MINOR",
+        "title": "Minor in Actuarial Mathematics",
+        "department": "ACRL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "OANC-MINOR",
+        "title": "Minor in Adult Oncology Specialist",
+        "department": "OANC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "AFRC-MINOR",
+        "title": "Minor in Africana Studies",
+        "department": "AFRC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "AMPP-MINOR",
+        "title": "Minor in American Public Policy",
+        "department": "AMPP",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ASL-MINOR",
+        "title": "Minor in American Sign Lang/Deaf Stds",
+        "department": "ASL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ANCH-MINOR",
+        "title": "Minor in Ancient History",
+        "department": "ANCH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ANEN-MINOR",
+        "title": "Minor in Ancient Near East",
+        "department": "ANEN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ANTH-MINOR",
+        "title": "Minor in Anthropology",
+        "department": "ANTH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "AHSN-MINOR",
+        "title": "Minor in Arabic & Hebrew Studies",
+        "department": "AHSN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "AISN-MINOR",
+        "title": "Minor in Arabic & Islamic Studies",
+        "department": "AISN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CAAM-MINOR",
+        "title": "Minor in Archaeological Science",
+        "department": "CAAM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ARCH-MINOR",
+        "title": "Minor in Architecture",
+        "department": "ARCH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "AMES-MINOR",
+        "title": "Minor in Asian & Middle Eastern Studies",
+        "department": "AMES",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ASAM-MINOR",
+        "title": "Minor in Asian American Studies",
+        "department": "ASAM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "BE-MINOR",
+        "title": "Minor in Bioengineering",
+        "department": "BE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "BIOE-MINOR",
+        "title": "Minor in Bioethics",
+        "department": "BIOE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "BIOL-MINOR",
+        "title": "Minor in Biology",
+        "department": "BIOL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "BIOP-MINOR",
+        "title": "Minor in Biophysics",
+        "department": "BIOP",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CBE-MINOR",
+        "title": "Minor in Chemical & Biomolecular Eng",
+        "department": "CBE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CHEM-MINOR",
+        "title": "Minor in Chemistry",
+        "department": "CHEM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CIMS-MINOR",
+        "title": "Minor in Cinema and Media Studies",
+        "department": "CIMS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CLST-MINOR",
+        "title": "Minor in Classical Studies",
+        "department": "CLST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CSMN-MINOR",
+        "title": "Minor in Cltr, Soc Mid East N Africa",
+        "department": "CSMN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "COGS-MINOR",
+        "title": "Minor in Cognitive Science",
+        "department": "COGS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "COML-MINOR",
+        "title": "Minor in Comparative Lit & Theory",
+        "department": "COML",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CMPL-MINOR",
+        "title": "Minor in Comparative Literature",
+        "department": "CMPL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CNSC-MINOR",
+        "title": "Minor in Computational Neuroscience",
+        "department": "CNSC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CSCI-MINOR",
+        "title": "Minor in Computer Science",
+        "department": "CSCI",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CSE-MINOR",
+        "title": "Minor in Computer Science & Engineering",
+        "department": "CSE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CNPS-MINOR",
+        "title": "Minor in Consumer Psychology",
+        "department": "CNPS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CRWT-MINOR",
+        "title": "Minor in Creative Writing",
+        "department": "CRWT",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "CRWR-MINOR",
+        "title": "Minor in Creative Writing",
+        "department": "CRWR",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "DATS-MINOR",
+        "title": "Minor in Data Science",
+        "department": "DATS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "DASA-MINOR",
+        "title": "Minor in Data Science and Analytics",
+        "department": "DASA",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "DSGN-MINOR",
+        "title": "Minor in Design",
+        "department": "DSGN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "DHUM-MINOR",
+        "title": "Minor in Digital Humanities",
+        "department": "DHUM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "DMD-MINOR",
+        "title": "Minor in Digital Media Design",
+        "department": "DMD",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EAST-MINOR",
+        "title": "Minor in East Asian Area Studies",
+        "department": "EAST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EALJ-MINOR",
+        "title": "Minor in East Asian Lang Civil/Jpn",
+        "department": "EALJ",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EALN-MINOR",
+        "title": "Minor in East Asian Lang & Civil/Chns",
+        "department": "EALN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EALK-MINOR",
+        "title": "Minor in East Asian Lang & Civil/Korean",
+        "department": "EALK",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EALC-MINOR",
+        "title": "Minor in East Asian Lang & Civilization",
+        "department": "EALC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ECES-MINOR",
+        "title": "Minor in East Central European Studies",
+        "department": "ECES",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EPOL-MINOR",
+        "title": "Minor in Economic Policy",
+        "department": "EPOL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ECON-MINOR",
+        "title": "Minor in Economics",
+        "department": "ECON",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EE-MINOR",
+        "title": "Minor in Electrical Engineering",
+        "department": "EE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ENSU-MINOR",
+        "title": "Minor in Energy & Sustainability",
+        "department": "ENSU",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EENT-MINOR",
+        "title": "Minor in Engineering Entrepreneurship",
+        "department": "EENT",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ENGL-MINOR",
+        "title": "Minor in English",
+        "department": "ENGL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ENVH-MINOR",
+        "title": "Minor in Environmental Humanities",
+        "department": "ENVH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EVSC-MINOR",
+        "title": "Minor in Environmental Science",
+        "department": "EVSC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ENVS-MINOR",
+        "title": "Minor in Environmental Studies",
+        "department": "ENVS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "EURO-MINOR",
+        "title": "Minor in European Studies",
+        "department": "EURO",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "FNAR-MINOR",
+        "title": "Minor in Fine Arts",
+        "department": "FNAR",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "FRFS-MINOR",
+        "title": "Minor in French and Francophone Studies",
+        "department": "FRFS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "GSWS-MINOR",
+        "title": "Minor in Gen, Sexuality & Women's Sts",
+        "department": "GSWS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "GEOL-MINOR",
+        "title": "Minor in Geology",
+        "department": "GEOL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "GRMN-MINOR",
+        "title": "Minor in German",
+        "department": "GRMN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "GLBH-MINOR",
+        "title": "Minor in Global Health",
+        "department": "GLBH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "GMST-MINOR",
+        "title": "Minor in Global Medieval Studies",
+        "department": "GMST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HSOC-MINOR",
+        "title": "Minor in Health & Societies",
+        "department": "HSOC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HCOM-MINOR",
+        "title": "Minor in Health Communication",
+        "department": "HCOM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HINF-MINOR",
+        "title": "Minor in Health Informatics",
+        "department": "HINF",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HEBN-MINOR",
+        "title": "Minor in Hebrew & Judaica",
+        "department": "HEBN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HSPN-MINOR",
+        "title": "Minor in Hispanic Studies",
+        "department": "HSPN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HIST-MINOR",
+        "title": "Minor in History",
+        "department": "HIST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ARTH-MINOR",
+        "title": "Minor in History of Art",
+        "department": "ARTH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NHHH-MINOR",
+        "title": "Minor in History, Health & Humanities",
+        "department": "NHHH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "INDM-MINOR",
+        "title": "Minor in Individualized",
+        "department": "INDM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ASDN-MINOR",
+        "title": "Minor in Integ Nursing Care of Autism",
+        "department": "ASDN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NASD-MINOR",
+        "title": "Minor in Integrated Care Autism Spec Di",
+        "department": "NASD",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PSCD-MINOR",
+        "title": "Minor in International Development",
+        "department": "PSCD",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "INTR-MINOR",
+        "title": "Minor in International Relations",
+        "department": "INTR",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ITAL-MINOR",
+        "title": "Minor in Italian",
+        "department": "ITAL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ITCL-MINOR",
+        "title": "Minor in Italian Culture",
+        "department": "ITCL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ITLT-MINOR",
+        "title": "Minor in Italian Literature",
+        "department": "ITLT",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ITST-MINOR",
+        "title": "Minor in Italian Studies",
+        "department": "ITST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "JAZZ-MINOR",
+        "title": "Minor in Jazz & Popular Music Studies",
+        "department": "JAZZ",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "JWST-MINOR",
+        "title": "Minor in Jewish Studies",
+        "department": "JWST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "JRNL-MINOR",
+        "title": "Minor in Journalistic Writing",
+        "department": "JRNL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LANS-MINOR",
+        "title": "Minor in Landscape Studies",
+        "department": "LANS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LALX-MINOR",
+        "title": "Minor in Latin American and Latinx Stds",
+        "department": "LALX",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LAWS-MINOR",
+        "title": "Minor in Law and Society",
+        "department": "LAWS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LGST-MINOR",
+        "title": "Minor in Legal Stds & Bus Ethics",
+        "department": "LGST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LSHS-MINOR",
+        "title": "Minor in Legal Studies & History",
+        "department": "LSHS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LING-MINOR",
+        "title": "Minor in Linguistics",
+        "department": "LING",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LGIC-MINOR",
+        "title": "Minor in Logic Info & Computation",
+        "department": "LGIC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "LOGC-MINOR",
+        "title": "Minor in Logic Info & Computation",
+        "department": "LOGC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MSE-MINOR",
+        "title": "Minor in Materials Science & Engin",
+        "department": "MSE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MATH-MINOR",
+        "title": "Minor in Mathematics",
+        "department": "MATH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MEAM-MINOR",
+        "title": "Minor in Mech Engr & Appl Mechanics",
+        "department": "MEAM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MSOC-MINOR",
+        "title": "Minor in Medical Sociology",
+        "department": "MSOC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "ATCH-MINOR",
+        "title": "Minor in Minor In Architectural History",
+        "department": "ATCH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MMES-MINOR",
+        "title": "Minor in Modern Middle Eastern Studies",
+        "department": "MMES",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MUSC-MINOR",
+        "title": "Minor in Music",
+        "department": "MUSC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NAIS-MINOR",
+        "title": "Minor in Native American And Indigenous",
+        "department": "NAIS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NELC-MINOR",
+        "title": "Minor in Near Eastern Lang & Civilizatn",
+        "department": "NELC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NHMG-MINOR",
+        "title": "Minor in Neurosci & Health Care Mgmt",
+        "department": "NHMG",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NRSC-MINOR",
+        "title": "Minor in Neuroscience",
+        "department": "NRSC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NHSM-MINOR",
+        "title": "Minor in Nursing & Hlth Services Mgmt",
+        "department": "NHSM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "HCAM-MINOR",
+        "title": "Minor in Nursing Administration",
+        "department": "HCAM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "NUTR-MINOR",
+        "title": "Minor in Nutrition",
+        "department": "NUTR",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "OEVM-MINOR",
+        "title": "Minor in Organizations & Env Mgmt",
+        "department": "OEVM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PALL-MINOR",
+        "title": "Minor in Palliative Care",
+        "department": "PALL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "APEN-MINOR",
+        "title": "Minor in Persian Language & Literature",
+        "department": "APEN",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PHIL-MINOR",
+        "title": "Minor in Philosophy",
+        "department": "PHIL",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PHYS-MINOR",
+        "title": "Minor in Physics",
+        "department": "PHYS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PSCI-MINOR",
+        "title": "Minor in Political Science",
+        "department": "PSCI",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PSYS-MINOR",
+        "title": "Minor in Psychoanalytic Studies",
+        "department": "PSYS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "PSYC-MINOR",
+        "title": "Minor in Psychology",
+        "department": "PSYC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "QISP-MINOR",
+        "title": "Minor in Qual Improv & Saf Proc Hlthcre",
+        "department": "QISP",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "RELS-MINOR",
+        "title": "Minor in Religious Studies",
+        "department": "RELS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "RULA-MINOR",
+        "title": "Minor in Russ Lang.,Lit.,&Culture",
+        "department": "RULA",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "RUCH-MINOR",
+        "title": "Minor in Russian Culture & History",
+        "department": "RUCH",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "STSC-MINOR",
+        "title": "Minor in Science Technology & Society",
+        "department": "STSC",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SOCS-MINOR",
+        "title": "Minor in Sociology",
+        "department": "SOCS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SAST-MINOR",
+        "title": "Minor in South Asia Studies",
+        "department": "SAST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SDSD-MINOR",
+        "title": "Minor in Statistics and Data Science",
+        "department": "SDSD",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SRDA-MINOR",
+        "title": "Minor in Survey Res & Data Analytics",
+        "department": "SRDA",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SEVM-MINOR",
+        "title": "Minor in Sustainability & Envl Mgmt",
+        "department": "SEVM",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "SSE-MINOR",
+        "title": "Minor in Systems Science & Engineering",
+        "department": "SSE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "THAR-MINOR",
+        "title": "Minor in Theatre Arts",
+        "department": "THAR",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "TNEP-MINOR",
+        "title": "Minor in Transformative Nurs Educ Progr",
+        "department": "TNEP",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "URED-MINOR",
+        "title": "Minor in Urban Education",
+        "department": "URED",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "URRE-MINOR",
+        "title": "Minor in Urban Real Estate & Dvpmt",
+        "department": "URRE",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "URBS-MINOR",
+        "title": "Minor in Urban Studies",
+        "department": "URBS",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "WHST-MINOR",
+        "title": "Minor in Women's Health Studies",
+        "department": "WHST",
+        "degreeType": "MINOR"
+    },
+    {
+        "program": "MMES-BA",
+        "title": "Modern Middle Eastern Studies BA",
+        "department": "MMES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MNMT-MBA",
+        "title": "Multinational Management MBA",
+        "department": "MNMT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MNMT-MBA-EXEC",
+        "title": "Multinational Management MBA (Executive)",
+        "department": "MNMT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MUSC-BA",
+        "title": "Music BA",
+        "department": "MUSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "MUSC-PHD",
+        "title": "Music PHD",
+        "department": "MUSC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MUSC-PHD-MCO",
+        "title": "Music PHD (Composition)",
+        "department": "MUSC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MUSC-PHD-MST",
+        "title": "Music PHD (Music Studies)",
+        "department": "MUSC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "MUSC-PHD-NONE",
+        "title": "Music PHD (Non Designated)",
+        "department": "MUSC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NANO-MSE",
+        "title": "Nanotechnology MSE",
+        "department": "NANO",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "NELC-BA",
+        "title": "Near Eastern Lang & Civilizatn BA",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-ANEN",
+        "title": "Near Eastern Lang & Civilizatn BA (Ancient Near East)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-AHSN",
+        "title": "Near Eastern Lang & Civilizatn BA (Arabic & Hebrew Studies)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-AISN",
+        "title": "Near Eastern Lang & Civilizatn BA (Arabic & Islamic Studies)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-CSMN",
+        "title": "Near Eastern Lang & Civilizatn BA (Cltr, Soc Mid East N Africa)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-HEB",
+        "title": "Near Eastern Lang & Civilizatn BA (Hebrew & Judaica)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-BA-APEN",
+        "title": "Near Eastern Lang & Civilizatn BA (Persian Language & Literature)",
+        "department": "NELC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NELC-MA",
+        "title": "Near Eastern Lang & Civilizatn MA",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-BST",
+        "title": "Near Eastern Lang & Civilizatn MA (Biblical Studies)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-MHL",
+        "title": "Near Eastern Lang & Civilizatn MA (Classical &Medieval Hebrew Lit)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-EAR",
+        "title": "Near Eastern Lang & Civilizatn MA (Egyptology - Archaeology)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-MCL",
+        "title": "Near Eastern Lang & Civilizatn MA (Mesopotamian Civ-Language)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-MELS",
+        "title": "Near Eastern Lang & Civilizatn MA (Middle Eastern Lit & Societies)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-MA-NONE",
+        "title": "Near Eastern Lang & Civilizatn MA (Non Designated)",
+        "department": "NELC",
+        "degreeType": "MA"
+    },
+    {
+        "program": "NELC-PHD",
+        "title": "Near Eastern Lang & Civilizatn PHD",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-BST",
+        "title": "Near Eastern Lang & Civilizatn PHD (Biblical Studies)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-MHL",
+        "title": "Near Eastern Lang & Civilizatn PHD (Classical &Medieval Hebrew Lit)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-EAR",
+        "title": "Near Eastern Lang & Civilizatn PHD (Egyptology - Archaeology)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-ELL",
+        "title": "Near Eastern Lang & Civilizatn PHD (Egyptology-Language&Literature)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-MCA",
+        "title": "Near Eastern Lang & Civilizatn PHD (Mesopotamian Civ-Archaeology)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-MCL",
+        "title": "Near Eastern Lang & Civilizatn PHD (Mesopotamian Civ-Language)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-MELS",
+        "title": "Near Eastern Lang & Civilizatn PHD (Middle Eastern Lit & Societies)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NELC-PHD-NONE",
+        "title": "Near Eastern Lang & Civilizatn PHD (Non Designated)",
+        "department": "NELC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NCNS-MSN",
+        "title": "Neonatal Clinical Nurse Sp Pgm MSN",
+        "department": "NCNS",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "NEOP-MSN",
+        "title": "Neonatal Nurse Practitioner MSN",
+        "department": "NEOP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "NEOP-PGN",
+        "title": "Neonatal Nurse Practitioner PGN",
+        "department": "NEOP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "NETS-BSE",
+        "title": "Networked And Social Systems BSE",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-DATS",
+        "title": "Networked And Social Systems BSE (Data Science)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-ECM",
+        "title": "Networked And Social Systems BSE (Economics & Networked Markets)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-NCS",
+        "title": "Networked And Social Systems BSE (Networked and Cloud Services)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-NONE",
+        "title": "Networked And Social Systems BSE (Non Designated)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-TSO",
+        "title": "Networked And Social Systems BSE (Technology and Society)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NETS-BSE-TND",
+        "title": "Networked And Social Systems BSE (Theory of Networks & Dynamics)",
+        "department": "NETS",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "NEUR-CERTA",
+        "title": "Neuroscience Advanced Certificate",
+        "department": "NEUR",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "NRSC-BA",
+        "title": "Neuroscience BA",
+        "department": "NRSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NEUR-CERT",
+        "title": "Neuroscience Certificate",
+        "department": "NEUR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "NGG-PHD",
+        "title": "Neuroscience PHD",
+        "department": "NGG",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NPAD-CERT",
+        "title": "Nonprofit Administration Certificate",
+        "department": "NPAD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "NPLD-MSNPL",
+        "title": "Nonprofit/NGO Leadership MSNPL",
+        "department": "NPLD",
+        "degreeType": "MSNPL"
+    },
+    {
+        "program": "NANS-DNP",
+        "title": "Nurse Anesthesia Program DNP",
+        "department": "NANS",
+        "degreeType": "DNP"
+    },
+    {
+        "program": "MIDW-MSN",
+        "title": "Nurse- Midwifery MSN",
+        "department": "MIDW",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "MIDW-PGN",
+        "title": "Nurse- Midwifery PGN",
+        "department": "MIDW",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "NADM-MSN",
+        "title": "Nursing & Hlth Care Admin MSN",
+        "department": "NADM",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "HCAM-CERT",
+        "title": "Nursing Administration Certificate",
+        "department": "HCAM",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "NURS-BSN",
+        "title": "Nursing BSN",
+        "department": "NURS",
+        "degreeType": "BSN"
+    },
+    {
+        "program": "NURS-DNP",
+        "title": "Nursing DNP",
+        "department": "NURS",
+        "degreeType": "DNP"
+    },
+    {
+        "program": "NURS-PHD",
+        "title": "Nursing PHD",
+        "department": "NURS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "NUTR-CERT",
+        "title": "Nutrition Certificate",
+        "department": "NUTR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "NTSC-BA",
+        "title": "Nutrition Science BA",
+        "department": "NTSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "NTSC-BSN",
+        "title": "Nutrition Science BSN",
+        "department": "NTSC",
+        "degreeType": "BSN"
+    },
+    {
+        "program": "NTSM-MSNS",
+        "title": "Nutrition Science MSNS",
+        "department": "NTSM",
+        "degreeType": "MSNS"
+    },
+    {
+        "program": "OIDD-BS",
+        "title": "Operations, Info.,&Decisions BS",
+        "department": "OIDD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "OIDD-BS-DPRO",
+        "title": "Operations, Info.,&Decisions BS (Decision Processes)",
+        "department": "OIDD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "OIDD-BS-INFO",
+        "title": "Operations, Info.,&Decisions BS (Information Systems)",
+        "department": "OIDD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "OIDD-BS-NONE",
+        "title": "Operations, Info.,&Decisions BS (Non Designated)",
+        "department": "OIDD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "OIDD-BS-OMS",
+        "title": "Operations, Info.,&Decisions BS (Operations Mgmnt/Mgmnt Science)",
+        "department": "OIDD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "OIDD-MBA",
+        "title": "Operations, Info.,&Decisions MBA",
+        "department": "OIDD",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "OIDD-MBA-EXEC",
+        "title": "Operations, Info.,&Decisions MBA (Executive)",
+        "department": "OIDD",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "OIDD-PHD",
+        "title": "Operations, Info.,&Decisions PHD",
+        "department": "OIDD",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "OMXS-CERTF",
+        "title": "Oral & Maxillofacial Surgery Certificate",
+        "department": "OMXS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "OBIO-MSOB",
+        "title": "Oral Biology MSOB",
+        "department": "OBIO",
+        "degreeType": "MSOB"
+    },
+    {
+        "program": "OHS-MOHS",
+        "title": "Oral Health Sciences MOHS",
+        "department": "OHS",
+        "degreeType": "MOHS"
+    },
+    {
+        "program": "OMED-CERT",
+        "title": "Oral Medicine Certificate",
+        "department": "OMED",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "OPH-MSOPH",
+        "title": "Oral and Population Health MSOPH",
+        "department": "OPH",
+        "degreeType": "MSOPH"
+    },
+    {
+        "program": "ORGC-CERT",
+        "title": "Organizational Anthropology Certificate",
+        "department": "ORGC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "OCC-CERT",
+        "title": "Organizational Culture Collab CERT",
+        "department": "OCC",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "DYNM-MPHIL",
+        "title": "Organizational Dynamics MPHIL",
+        "department": "DYNM",
+        "degreeType": "MPHIL"
+    },
+    {
+        "program": "DYNM-MSOD",
+        "title": "Organizational Dynamics MSOD",
+        "department": "DYNM",
+        "degreeType": "MSOD"
+    },
+    {
+        "program": "ORGS-MBA",
+        "title": "Organizational Effectiveness MBA",
+        "department": "ORGS",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ORGS-MBA-EXEC",
+        "title": "Organizational Effectiveness MBA (Executive)",
+        "department": "ORGS",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "ORGA-BAAS",
+        "title": "Organizational Studies BAAS",
+        "department": "ORGA",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "ORTH-CERTF",
+        "title": "Orthodontics Certificate",
+        "department": "ORTH",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "ORPR-CERTF",
+        "title": "Orthodontics-Periodontics Certificate",
+        "department": "ORPR",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PALL-CERT",
+        "title": "Palliative Care Certificate",
+        "department": "PALL",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "PANP-MSN",
+        "title": "Pediatric Acute Care NP Prgm MSN",
+        "department": "PANP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PANP-MSN-ACU",
+        "title": "Pediatric Acute Care NP Prgm MSN (Acute/Chronic Care)",
+        "department": "PANP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PANP-MSN-CRC",
+        "title": "Pediatric Acute Care NP Prgm MSN (Critical Care Pediatrics)",
+        "department": "PANP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PANP-MSN-POC",
+        "title": "Pediatric Acute Care NP Prgm MSN (Pediatric Oncology)",
+        "department": "PANP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PANP-PGN",
+        "title": "Pediatric Acute Care NP Prgm PGN",
+        "department": "PANP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "PANP-PGN-ACU",
+        "title": "Pediatric Acute Care NP Prgm PGN (Acute/Chronic Care)",
+        "department": "PANP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "PANP-PGN-CRC",
+        "title": "Pediatric Acute Care NP Prgm PGN (Critical Care Pediatrics)",
+        "department": "PANP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "PANP-PGN-POC",
+        "title": "Pediatric Acute Care NP Prgm PGN (Pediatric Oncology)",
+        "department": "PANP",
+        "degreeType": "PGN"
+    },
+    {
+        "program": "PCNS-MSN",
+        "title": "Pediatric Clinicl Nurse Sp Pgm MSN",
+        "department": "PCNS",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PCPP-MSN",
+        "title": "Pediatric Nurse Practitioner MSN",
+        "department": "PCPP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PPNP-MSN",
+        "title": "Pediatric Primary Care NP Prgm MSN",
+        "department": "PPNP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PEDD-CERTF",
+        "title": "Pedodontics Certificate",
+        "department": "PEDD",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PCLO-EDD",
+        "title": "Penn Chief Learning Officer EDD",
+        "department": "PCLO",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "PCLO-MSED",
+        "title": "Penn Chief Learning Officer MSED",
+        "department": "PCLO",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "PRDT-CERTF",
+        "title": "Periodontics Certificate",
+        "department": "PRDT",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PRDP-CERTF",
+        "title": "Perioprosthesis Certificate",
+        "department": "PRDP",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PHRM-PHD",
+        "title": "Pharmacology PHD",
+        "department": "PHRM",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PHIL-BA",
+        "title": "Philosophy BA",
+        "department": "PHIL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHIL-BA-GPH",
+        "title": "Philosophy BA (General Philosophy)",
+        "department": "PHIL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHIL-BA-HPHI",
+        "title": "Philosophy BA (Humanistic Philosophy)",
+        "department": "PHIL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHIL-BA-PHI",
+        "title": "Philosophy BA (Philosophy & Science)",
+        "department": "PHIL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHIL-BA-PMP",
+        "title": "Philosophy BA (Political and Moral Philosophy)",
+        "department": "PHIL",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHIL-PHD",
+        "title": "Philosophy PHD",
+        "department": "PHIL",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PPE-BA",
+        "title": "Philosophy Politics & Econ BA",
+        "department": "PPE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PPE-BA-CBT",
+        "title": "Philosophy Politics & Econ BA (Choice & Behavior Theme)",
+        "department": "PPE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PPE-BA-DJT",
+        "title": "Philosophy Politics & Econ BA (Distributive Justice Theme)",
+        "department": "PPE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PPE-BA-GLO",
+        "title": "Philosophy Politics & Econ BA (Globalization Theme)",
+        "department": "PPE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PPE-BA-PPG",
+        "title": "Philosophy Politics & Econ BA (Public Policy and Governance)",
+        "department": "PPE",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYL-BAAS",
+        "title": "Physical & Life Sciences BAAS",
+        "department": "PHYL",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "PHYS-BA",
+        "title": "Physics BA",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-ASP",
+        "title": "Physics BA (Astrophysics)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-BSC",
+        "title": "Physics BA (Biological Science)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-CHP",
+        "title": "Physics BA (Chemical Principles)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-CMT",
+        "title": "Physics BA (Computer Techniques)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-PTE",
+        "title": "Physics BA (Physical Theory & Exper Tech)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHYS-BA-PHB",
+        "title": "Physics BA (Physics, Business & Technology)",
+        "department": "PHYS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PHAS-PHD",
+        "title": "Physics and Astronomy PHD",
+        "department": "PHAS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-BA",
+        "title": "Political Science BA",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-AMP",
+        "title": "Political Science BA (American Politics)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-CMP",
+        "title": "Political Science BA (Comparative Politics)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-INDM",
+        "title": "Political Science BA (Individualized)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-INTR",
+        "title": "Political Science BA (International Relations)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-NONE",
+        "title": "Political Science BA (Non Designated)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-POE",
+        "title": "Political Science BA (Political Economy)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-BA-PTH",
+        "title": "Political Science BA (Political Theory)",
+        "department": "PSCI",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSCI-PHD",
+        "title": "Political Science PHD",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-PHD-AMP",
+        "title": "Political Science PHD (American Politics)",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-PHD-CMP",
+        "title": "Political Science PHD (Comparative Politics)",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-PHD-INTR",
+        "title": "Political Science PHD (International Relations)",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-PHD-NONE",
+        "title": "Political Science PHD (Non Designated)",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PSCI-PHD-PTH",
+        "title": "Political Science PHD (Political Theory)",
+        "department": "PSCI",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "POLT-CERT",
+        "title": "Politics Certificate",
+        "department": "POLT",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "PHCS-CERTF",
+        "title": "Pre-Health Core Studies CERTF",
+        "department": "PHCS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PHCS-PBPREP",
+        "title": "Pre-Health Core Studies PBPREP",
+        "department": "PHCS",
+        "degreeType": "PBPREP"
+    },
+    {
+        "program": "PHSS-CERTF",
+        "title": "Pre-Health Specialized Stds CERTF",
+        "department": "PHSS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PHSS-PBPREP",
+        "title": "Pre-Health Specialized Stds PBPREP",
+        "department": "PHSS",
+        "degreeType": "PBPREP"
+    },
+    {
+        "program": "PCLT-MPHILE",
+        "title": "Professional Counseling MPHILED",
+        "department": "PCLT",
+        "degreeType": "MPHILE"
+    },
+    {
+        "program": "PCLT-MPHILE-NONE",
+        "title": "Professional Counseling MPHILED (Non Designated)",
+        "department": "PCLT",
+        "degreeType": "MPHILE"
+    },
+    {
+        "program": "PCLT-MPHILE-SCO",
+        "title": "Professional Counseling MPHILED (School Certification)",
+        "department": "PCLT",
+        "degreeType": "MPHILE"
+    },
+    {
+        "program": "PROW-CERTA",
+        "title": "Professional Writing Advanced Certificate",
+        "department": "PROW",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "PROW-CERT",
+        "title": "Professional Writing Certificate",
+        "department": "PROW",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "EPBL-CERT",
+        "title": "Project Based Learning Certificate",
+        "department": "EPBL",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "PROS-CERTF",
+        "title": "Prosthodontics Certificate",
+        "department": "PROS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PMNP-MSN",
+        "title": "Psychiatric Mental Hlth APN-NP MSN",
+        "department": "PMNP",
+        "degreeType": "MSN"
+    },
+    {
+        "program": "PSYC-BA",
+        "title": "Psychology BA",
+        "department": "PSYC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "PSYC-PHD",
+        "title": "Psychology PHD",
+        "department": "PSYC",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "PUBF-CERTF",
+        "title": "Public Finance Certificate",
+        "department": "PUBF",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "PUBH-CERT",
+        "title": "Public Health Studies Certificate",
+        "department": "PUBH",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "PUBH-MPH",
+        "title": "Public Health Studies MPH",
+        "department": "PUBH",
+        "degreeType": "MPH"
+    },
+    {
+        "program": "PUBH-MPH-GNR",
+        "title": "Public Health Studies MPH (Generalist)",
+        "department": "PUBH",
+        "degreeType": "MPH"
+    },
+    {
+        "program": "PUBH-MPH-GLBH",
+        "title": "Public Health Studies MPH (Global Health)",
+        "department": "PUBH",
+        "degreeType": "MPH"
+    },
+    {
+        "program": "PUBH-MPH-NONE",
+        "title": "Public Health Studies MPH (Non Designated)",
+        "department": "PUBH",
+        "degreeType": "MPH"
+    },
+    {
+        "program": "PUBH-MPH-OHE",
+        "title": "Public Health Studies MPH (One Health)",
+        "department": "PUBH",
+        "degreeType": "MPH"
+    },
+    {
+        "program": "PPHL-CERT",
+        "title": "Public Philosophy CERT",
+        "department": "PPHL",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "QISP-CERT",
+        "title": "Quality Improvement & Safety Processes Healthcare Certificate",
+        "department": "QISP",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "QFNC-MBA",
+        "title": "Quantitative Finance MBA",
+        "department": "QFNC",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "QFNC-MBA-EXEC",
+        "title": "Quantitative Finance MBA (Executive)",
+        "department": "QFNC",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "QMD-MPHILE",
+        "title": "Quantitative Methods MPHILE",
+        "department": "QMD",
+        "degreeType": "MPHILE"
+    },
+    {
+        "program": "RWRL-CAS",
+        "title": "Reading/Writing/Literacy CAS",
+        "department": "RWRL",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "RWRL-CERTF",
+        "title": "Reading/Writing/Literacy CERTF",
+        "department": "RWRL",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "RWRL-EDD",
+        "title": "Reading/Writing/Literacy EDD",
+        "department": "RWRL",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "RWRL-MSED",
+        "title": "Reading/Writing/Literacy MSED",
+        "department": "RWRL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "RWRO-MSED",
+        "title": "Reading/Writing/Literacy MSED",
+        "department": "RWRO",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "RWRO-MSED-ESL",
+        "title": "Reading/Writing/Literacy MSED (ESL Specialist Certification)",
+        "department": "RWRO",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "RWRO-MSED-TSE",
+        "title": "Reading/Writing/Literacy MSED (Special Education (K-12))",
+        "department": "RWRO",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "REAL-BS",
+        "title": "Real Estate BS",
+        "department": "REAL",
+        "degreeType": "BS"
+    },
+    {
+        "program": "REDD-CERT",
+        "title": "Real Estate Design & Development Certificate",
+        "department": "REDD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "REAL-MBA",
+        "title": "Real Estate MBA",
+        "department": "REAL",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "REAL-MBA-EXEC",
+        "title": "Real Estate MBA (Executive)",
+        "department": "REAL",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "MRA-CERT",
+        "title": "Regulatory Affairs Certificate",
+        "department": "MRA",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MRA-MRA",
+        "title": "Regulatory Affairs MRA",
+        "department": "MRA",
+        "degreeType": "MRA"
+    },
+    {
+        "program": "MRA-MRA-CLR",
+        "title": "Regulatory Affairs MRA (Clinical Research)",
+        "department": "MRA",
+        "degreeType": "MRA"
+    },
+    {
+        "program": "MRA-MRA-NONE",
+        "title": "Regulatory Affairs MRA (Non Designated)",
+        "department": "MRA",
+        "degreeType": "MRA"
+    },
+    {
+        "program": "MRA-MRA-QUA",
+        "title": "Regulatory Affairs MRA (Quality Assurance)",
+        "department": "MRA",
+        "degreeType": "MRA"
+    },
+    {
+        "program": "MSR-MSRS",
+        "title": "Regulatory Science MSRS",
+        "department": "MSR",
+        "degreeType": "MSRS"
+    },
+    {
+        "program": "RELS-BA",
+        "title": "Religious Studies BA",
+        "department": "RELS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "RELS-PHD",
+        "title": "Religious Studies PHD",
+        "department": "RELS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "RETG-BS",
+        "title": "Retailing BS",
+        "department": "RETG",
+        "degreeType": "BS"
+    },
+    {
+        "program": "ROBO-MSE",
+        "title": "Robotics MSE",
+        "department": "ROBO",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "ROML-BA",
+        "title": "Romance Languages BA",
+        "department": "ROML",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ROML-BA-FIR",
+        "title": "Romance Languages BA (French and Italian)",
+        "department": "ROML",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ROML-BA-FSR",
+        "title": "Romance Languages BA (French and Spanish)",
+        "department": "ROML",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ROML-BA-ISR",
+        "title": "Romance Languages BA (Italian and Spanish)",
+        "department": "ROML",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ROML-BA-NONE",
+        "title": "Romance Languages BA (Non Designated)",
+        "department": "ROML",
+        "degreeType": "BA"
+    },
+    {
+        "program": "ROML-PHD",
+        "title": "Romance Languages PHD",
+        "department": "ROML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ROML-PHD-FRN",
+        "title": "Romance Languages PHD (French Studies)",
+        "department": "ROML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ROML-PHD-HSPN",
+        "title": "Romance Languages PHD (Hispanic Studies)",
+        "department": "ROML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ROML-PHD-ITST",
+        "title": "Romance Languages PHD (Italian Studies)",
+        "department": "ROML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "ROML-PHD-NONE",
+        "title": "Romance Languages PHD (Non Designated)",
+        "department": "ROML",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "REES-BA",
+        "title": "Russian& East European Studies BA",
+        "department": "REES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "REES-BA-CAL",
+        "title": "Russian& East European Studies BA (Cinema, Arts, and Letters)",
+        "department": "REES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "REES-BA-HPC",
+        "title": "Russian& East European Studies BA (History, Politics, and Society)",
+        "department": "REES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "REES-BA-LLC",
+        "title": "Russian& East European Studies BA (Language, Literature, &Culture)",
+        "department": "REES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "REES-BA-NONE",
+        "title": "Russian& East European Studies BA (Non Designated)",
+        "department": "REES",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SMHC-MSED",
+        "title": "Schl & Mental Hlth Counseling MSED",
+        "department": "SMHC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SLIS-MSED",
+        "title": "Schl Ldrship:Independent Schl MSED",
+        "department": "SLIS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SLPC-MSED",
+        "title": "Schl Ldrship:Publ/Charter Schl MSED",
+        "department": "SLPC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SLCT-CERTF",
+        "title": "School Leadership Certificate",
+        "department": "SLCT",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "SCPS-MSED",
+        "title": "School Psychology MSED",
+        "department": "SCPS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SCFD-CERT",
+        "title": "Science Foundations Certificate",
+        "department": "SCFD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "STSC-BA",
+        "title": "Science Technology & Society BA",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "STSC-BA-BIT",
+        "title": "Science Technology & Society BA (Biotechnology & Biomedicine)",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "STSC-BA-ETE",
+        "title": "Science Technology & Society BA (Energy & Environment)",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "STSC-BA-GTC",
+        "title": "Science Technology & Society BA (Global Science & Technology)",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "STSC-BA-IFO",
+        "title": "Science Technology & Society BA (Information & Organizations)",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "STSC-BA-SNC",
+        "title": "Science Technology & Society BA (Science, Nature, & Culture)",
+        "department": "STSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SCMP-MSE",
+        "title": "Scientific Computing MSE",
+        "department": "SCMP",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "SESS-MSED",
+        "title": "Secondary Edu: Social Studies MSED",
+        "department": "SESS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SEEN-MSED",
+        "title": "Secondary Education: English MSED",
+        "department": "SEEN",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SEEM-MSED",
+        "title": "Secondary Education: Math MSED",
+        "department": "SEEM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SESC-MSED",
+        "title": "Secondary Education: Science MSED",
+        "department": "SESC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SDEI-CERTA",
+        "title": "Social Difference, Diversity, Equity, & Inclusion Advanced Certificate",
+        "department": "SDEI",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "SDEI-CERT",
+        "title": "Social Difference, Diversity, Equity, & Inclusion Certificate",
+        "department": "SDEI",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "SIAR-BS",
+        "title": "Social Impact & Responsibility BS",
+        "department": "SIAR",
+        "degreeType": "BS"
+    },
+    {
+        "program": "MSSD-MSSP",
+        "title": "Social Policy & Data Analytics MSSP",
+        "department": "MSSD",
+        "degreeType": "MSSP"
+    },
+    {
+        "program": "MSSP-MSSP",
+        "title": "Social Policy MSSP",
+        "department": "MSSP",
+        "degreeType": "MSSP"
+    },
+    {
+        "program": "SOCW-PHD",
+        "title": "Social Welfare PHD",
+        "department": "SOCW",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "SWRK-MSW",
+        "title": "Social Work MSW",
+        "department": "SWRK",
+        "degreeType": "MSW"
+    },
+    {
+        "program": "SWRK-MSW-CLN",
+        "title": "Social Work MSW (Clinical Practice)",
+        "department": "SWRK",
+        "degreeType": "MSW"
+    },
+    {
+        "program": "SWRK-MSW-MAC",
+        "title": "Social Work MSW (Macro Practice)",
+        "department": "SWRK",
+        "degreeType": "MSW"
+    },
+    {
+        "program": "SOGO-MBA",
+        "title": "Social and Gov Factors Bus MBA",
+        "department": "SOGO",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SOGO-MBA-EXEC",
+        "title": "Social and Gov Factors Bus MBA (Executive)",
+        "department": "SOGO",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SCAN-CERT",
+        "title": "Social, Cognitive, & Affective Neuroscience Certificate",
+        "department": "SCAN",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "SOCS-BA",
+        "title": "Sociology BA",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-ARD",
+        "title": "Sociology BA (Appl Research & Data Analysis)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-CMG",
+        "title": "Sociology BA (Cities, Markets & Global Econ)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-CDV",
+        "title": "Sociology BA (Culture and Diversity)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-DSL",
+        "title": "Sociology BA (Deviance & the Sociology & Law)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-ESTY",
+        "title": "Sociology BA (Education and Society)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-FGS",
+        "title": "Sociology BA (Family, Gender and Society)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-LAWS",
+        "title": "Sociology BA (Law and Society)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-MDS",
+        "title": "Sociology BA (Medical Sociology)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-BA-SOI",
+        "title": "Sociology BA (Structures of Opportun&Inequal)",
+        "department": "SOCS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SOCS-PHD",
+        "title": "Sociology PHD",
+        "department": "SOCS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "SFSY-CERT",
+        "title": "Software Systems Certificate",
+        "department": "SFSY",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "SARS-MA",
+        "title": "South Asia Regional Studies MA",
+        "department": "SARS",
+        "degreeType": "MA"
+    },
+    {
+        "program": "SARS-PHD",
+        "title": "South Asia Regional Studies PHD",
+        "department": "SARS",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "SAST-BA",
+        "title": "South Asia Studies BA",
+        "department": "SAST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "SPPO-PHD",
+        "title": "Spanish & Portuguese PHD",
+        "department": "SPPO",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "SMRT-MSED",
+        "title": "Statist Measurement & Res MSED",
+        "department": "SMRT",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "SDSD-BS",
+        "title": "Statistics and Data Science BS",
+        "department": "SDSD",
+        "degreeType": "BS"
+    },
+    {
+        "program": "SDSD-MA",
+        "title": "Statistics and Data Science MA",
+        "department": "SDSD",
+        "degreeType": "MA"
+    },
+    {
+        "program": "SDSD-MBA",
+        "title": "Statistics and Data Science MBA",
+        "department": "SDSD",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SDSD-MBA-EXEC",
+        "title": "Statistics and Data Science MBA (Executive)",
+        "department": "SDSD",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SDSD-PHD",
+        "title": "Statistics and Data Science PHD",
+        "department": "SDSD",
+        "degreeType": "PHD"
+    },
+    {
+        "program": "SMGT-MBA",
+        "title": "Strategic Management MBA",
+        "department": "SMGT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SMGT-MBA-EXEC",
+        "title": "Strategic Management MBA (Executive)",
+        "department": "SMGT",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "SE-MSE",
+        "title": "Systems Engineering MSE",
+        "department": "SE",
+        "degreeType": "MSE"
+    },
+    {
+        "program": "SSE-BSE",
+        "title": "Systems Science & Engineering BSE",
+        "department": "SSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "SSE-BSE-DAI",
+        "title": "Systems Science & Engineering BSE (Data Sci & Artificial Intel)",
+        "department": "SSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "SSE-BSE-DSCI",
+        "title": "Systems Science & Engineering BSE (Decision Sciences)",
+        "department": "SSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "SSE-BSE-NONE",
+        "title": "Systems Science & Engineering BSE (Non Designated)",
+        "department": "SSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "SSE-BSE-ROBO",
+        "title": "Systems Science & Engineering BSE (Robotics)",
+        "department": "SSE",
+        "degreeType": "BSE"
+    },
+    {
+        "program": "SYSC-BA",
+        "title": "Systems Science BA",
+        "department": "SYSC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "TESL-MSED",
+        "title": "T E S O L MSED",
+        "department": "TESL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "TLL-MSED",
+        "title": "Teaching Learning & Ldshp MSED",
+        "department": "TLL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "TLTE-CAS",
+        "title": "Teaching Learning & TeacherEdu CAS",
+        "department": "TLTE",
+        "degreeType": "CAS"
+    },
+    {
+        "program": "TLTE-EDD",
+        "title": "Teaching Learning & TeacherEdu EDD",
+        "department": "TLTE",
+        "degreeType": "EDD"
+    },
+    {
+        "program": "THAR-BA",
+        "title": "Theatre Arts BA",
+        "department": "THAR",
+        "degreeType": "BA"
+    },
+    {
+        "program": "TBIM-CERT",
+        "title": "Time-Based & Interactive Media Certificate",
+        "department": "TBIM",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "TNEP-CERT",
+        "title": "Transformative Nursing Education Program Certificate",
+        "department": "TNEP",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MTR-CERT-ETS",
+        "title": "Translational Research (Entrepreneurial Science) Certificate",
+        "department": "MTR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MTR-CERT-MSR",
+        "title": "Translational Research (Regulatory Science) Certificate",
+        "department": "MTR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MTR-CERT-TRS",
+        "title": "Translational Research (Translational Science) Certificate",
+        "department": "MTR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MTR-CERT",
+        "title": "Translational Research Certificate",
+        "department": "MTR",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "MTR-MSTR",
+        "title": "Translational Research MSTR",
+        "department": "MTR",
+        "degreeType": "MSTR"
+    },
+    {
+        "program": "MTR-MSTR-BINF",
+        "title": "Translational Research MSTR (Bioinformatics)",
+        "department": "MTR",
+        "degreeType": "MSTR"
+    },
+    {
+        "program": "MTR-MSTR-DIS",
+        "title": "Translational Research MSTR (Discovery)",
+        "department": "MTR",
+        "degreeType": "MSTR"
+    },
+    {
+        "program": "MTR-MSTR-ETS",
+        "title": "Translational Research MSTR (Entrepreneurial Science)",
+        "department": "MTR",
+        "degreeType": "MSTR"
+    },
+    {
+        "program": "MTR-MSTR-TTR",
+        "title": "Translational Research MSTR (Transl Therap & Regul Sci)",
+        "department": "MTR",
+        "degreeType": "MSTR"
+    },
+    {
+        "program": "UNDC-BA",
+        "title": "Undeclared BA",
+        "department": "UNDC",
+        "degreeType": "BA"
+    },
+    {
+        "program": "UNDC-BAAS",
+        "title": "Undeclared BAAS",
+        "department": "UNDC",
+        "degreeType": "BAAS"
+    },
+    {
+        "program": "UNDC-MBA-EXEC",
+        "title": "Undeclared MBA (Executive)",
+        "department": "UNDC",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "UPSK-CERTA",
+        "title": "UpSkill Advanced Certificate",
+        "department": "UPSK",
+        "degreeType": "CERTA"
+    },
+    {
+        "program": "UPSK-CERT",
+        "title": "UpSkill Certificate",
+        "department": "UPSK",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "UDES-CERT",
+        "title": "Urban Design Certificate",
+        "department": "UDES",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "UREC-MSED",
+        "title": "Urban Education MSED",
+        "department": "UREC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "URED-MSED",
+        "title": "Urban Education MSED",
+        "department": "URED",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UREC-MSED-ESL",
+        "title": "Urban Education MSED (ESL Specialist Certification)",
+        "department": "UREC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UREC-MSED-TSE",
+        "title": "Urban Education MSED (Special Education (K-12))",
+        "department": "UREC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UBRD-CERT",
+        "title": "Urban Redevelopment Certificate",
+        "department": "UBRD",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "UBRE-CERT",
+        "title": "Urban Resilience Certificate",
+        "department": "UBRE",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "USA-MUSA",
+        "title": "Urban Spatial Analytics MUSA",
+        "department": "USA",
+        "degreeType": "MUSA"
+    },
+    {
+        "program": "URBS-BA",
+        "title": "Urban Studies BA",
+        "department": "URBS",
+        "degreeType": "BA"
+    },
+    {
+        "program": "UTBC-CERTF",
+        "title": "Urban Teaching: Biology CERTF",
+        "department": "UTBC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTBC-CERTF-ESL",
+        "title": "Urban Teaching: Biology CERTF (ESL Specialist Certification)",
+        "department": "UTBC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTBC-CERTF-TSE",
+        "title": "Urban Teaching: Biology CERTF (Special Education (K-12))",
+        "department": "UTBC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTBI-CERTF",
+        "title": "Urban Teaching: Biology Certificate",
+        "department": "UTBI",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTBI-MSED",
+        "title": "Urban Teaching: Biology MSED",
+        "department": "UTBI",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTBC-MSED-ESL",
+        "title": "Urban Teaching: Biology MSED (ESL Specialist Certification)",
+        "department": "UTBC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTBC-MSED-TSE",
+        "title": "Urban Teaching: Biology MSED (Special Education (K-12))",
+        "department": "UTBC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTCC-CERTF",
+        "title": "Urban Teaching: Chemistry CERTF",
+        "department": "UTCC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTCC-CERTF-ESL",
+        "title": "Urban Teaching: Chemistry CERTF (ESL Specialist Certification)",
+        "department": "UTCC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTCC-CERTF-TSE",
+        "title": "Urban Teaching: Chemistry CERTF (Special Education (K-12))",
+        "department": "UTCC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTCH-CERTF",
+        "title": "Urban Teaching: Chemistry Certificate",
+        "department": "UTCH",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTCH-MSED",
+        "title": "Urban Teaching: Chemistry MSED",
+        "department": "UTCH",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTCC-MSED-ESL",
+        "title": "Urban Teaching: Chemistry MSED (ESL Specialist Certification)",
+        "department": "UTCC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTCC-MSED-TSE",
+        "title": "Urban Teaching: Chemistry MSED (Special Education (K-12))",
+        "department": "UTCC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTEC-CERTF",
+        "title": "Urban Teaching: Elementary CERTF",
+        "department": "UTEC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTEC-CERTF-ESL",
+        "title": "Urban Teaching: Elementary CERTF (ESL Specialist Certification)",
+        "department": "UTEC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTEC-CERTF-TSE",
+        "title": "Urban Teaching: Elementary CERTF (Special Education (K-12))",
+        "department": "UTEC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTEL-CERTF",
+        "title": "Urban Teaching: Elementary Certificate",
+        "department": "UTEL",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTEL-MSED",
+        "title": "Urban Teaching: Elementary MSED",
+        "department": "UTEL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTEC-MSED-ESL",
+        "title": "Urban Teaching: Elementary MSED (ESL Specialist Certification)",
+        "department": "UTEC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTEC-MSED-TSE",
+        "title": "Urban Teaching: Elementary MSED (Special Education (K-12))",
+        "department": "UTEC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UEMC-CERTF",
+        "title": "Urban Teaching: English (Mid) CERTF",
+        "department": "UEMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UEMC-CERTF-ESL",
+        "title": "Urban Teaching: English (Mid) CERTF (ESL Specialist Certification)",
+        "department": "UEMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UEMC-CERTF-TSE",
+        "title": "Urban Teaching: English (Mid) CERTF (Special Education (K-12))",
+        "department": "UEMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTEM-MSED",
+        "title": "Urban Teaching: English (Mid) MSED",
+        "department": "UTEM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UEMC-MSED-ESL",
+        "title": "Urban Teaching: English (Mid) MSED (ESL Specialist Certification)",
+        "department": "UEMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UEMC-MSED-TSE",
+        "title": "Urban Teaching: English (Mid) MSED (Special Education (K-12))",
+        "department": "UEMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTEM-CERTF",
+        "title": "Urban Teaching: English (Middle Years) Certificate",
+        "department": "UTEM",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UESC-CERTF",
+        "title": "Urban Teaching: English (Sec) CERTF",
+        "department": "UESC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UESC-CERTF-ESL",
+        "title": "Urban Teaching: English (Sec) CERTF (ESL Specialist Certification)",
+        "department": "UESC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UESC-CERTF-TSE",
+        "title": "Urban Teaching: English (Sec) CERTF (Special Education (K-12))",
+        "department": "UESC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTES-MSED",
+        "title": "Urban Teaching: English (Sec) MSED",
+        "department": "UTES",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UESC-MSED-ESL",
+        "title": "Urban Teaching: English (Sec) MSED (ESL Specialist Certification)",
+        "department": "UESC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UESC-MSED-TSE",
+        "title": "Urban Teaching: English (Sec) MSED (Special Education (K-12))",
+        "department": "UESC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTES-CERTF",
+        "title": "Urban Teaching: English (Secondary) Certificate",
+        "department": "UTES",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTGC-CERTF",
+        "title": "Urban Teaching: General Sci CERTF",
+        "department": "UTGC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTGC-CERTF-ESL",
+        "title": "Urban Teaching: General Sci CERTF (ESL Specialist Certification)",
+        "department": "UTGC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTGC-CERTF-TSE",
+        "title": "Urban Teaching: General Sci CERTF (Special Education (K-12))",
+        "department": "UTGC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTGS-MSED",
+        "title": "Urban Teaching: General Sci MSED",
+        "department": "UTGS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTGC-MSED-ESL",
+        "title": "Urban Teaching: General Sci MSED (ESL Specialist Certification)",
+        "department": "UTGC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTGC-MSED-TSE",
+        "title": "Urban Teaching: General Sci MSED (Special Education (K-12))",
+        "department": "UTGC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTGS-CERTF",
+        "title": "Urban Teaching: General Science Certificate",
+        "department": "UTGS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMMC-CERTF",
+        "title": "Urban Teaching: Math (Mid) CERTF",
+        "department": "UMMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMMC-CERTF-ESL",
+        "title": "Urban Teaching: Math (Mid) CERTF (ESL Specialist Certification)",
+        "department": "UMMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMMC-CERTF-TSE",
+        "title": "Urban Teaching: Math (Mid) CERTF (Special Education (K-12))",
+        "department": "UMMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTMM-MSED",
+        "title": "Urban Teaching: Math (Mid) MSED",
+        "department": "UTMM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UMMC-MSED-ESL",
+        "title": "Urban Teaching: Math (Mid) MSED (ESL Specialist Certification)",
+        "department": "UMMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UMMC-MSED-TSE",
+        "title": "Urban Teaching: Math (Mid) MSED (Special Education (K-12))",
+        "department": "UMMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTMM-CERTF",
+        "title": "Urban Teaching: Math (Middle Years) Certificate",
+        "department": "UTMM",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMSC-CERTF",
+        "title": "Urban Teaching: Math (Sec) CERTF",
+        "department": "UMSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMSC-CERTF-ESL",
+        "title": "Urban Teaching: Math (Sec) CERTF (ESL Specialist Certification)",
+        "department": "UMSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UMSC-CERTF-TSE",
+        "title": "Urban Teaching: Math (Sec) CERTF (Special Education (K-12))",
+        "department": "UMSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTMS-MSED",
+        "title": "Urban Teaching: Math (Sec) MSED",
+        "department": "UTMS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UMSC-MSED-ESL",
+        "title": "Urban Teaching: Math (Sec) MSED (ESL Specialist Certification)",
+        "department": "UMSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UMSC-MSED-TSE",
+        "title": "Urban Teaching: Math (Sec) MSED (Special Education (K-12))",
+        "department": "UMSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTMS-CERTF",
+        "title": "Urban Teaching: Math (Secindary) Certificate",
+        "department": "UTMS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTPC-CERTF",
+        "title": "Urban Teaching: Physics CERTF",
+        "department": "UTPC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTPC-CERTF-ESL",
+        "title": "Urban Teaching: Physics CERTF (ESL Specialist Certification)",
+        "department": "UTPC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTPC-CERTF-TSE",
+        "title": "Urban Teaching: Physics CERTF (Special Education (K-12))",
+        "department": "UTPC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTPH-CERTF",
+        "title": "Urban Teaching: Physics Certificate",
+        "department": "UTPH",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTPH-MSED",
+        "title": "Urban Teaching: Physics MSED",
+        "department": "UTPH",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTPC-MSED-ESL",
+        "title": "Urban Teaching: Physics MSED (ESL Specialist Certification)",
+        "department": "UTPC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTPC-MSED-TSE",
+        "title": "Urban Teaching: Physics MSED (Special Education (K-12))",
+        "department": "UTPC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USMC-CERTF",
+        "title": "Urban Teaching: Science (Mid) CERTF",
+        "department": "USMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USMC-CERTF-ESL",
+        "title": "Urban Teaching: Science (Mid) CERTF (ESL Specialist Certification)",
+        "department": "USMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USMC-CERTF-TSE",
+        "title": "Urban Teaching: Science (Mid) CERTF (Special Education (K-12))",
+        "department": "USMC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTSC-MSED",
+        "title": "Urban Teaching: Science (Mid) MSED",
+        "department": "UTSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USMC-MSED-ESL",
+        "title": "Urban Teaching: Science (Mid) MSED (ESL Specialist Certification)",
+        "department": "USMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USMC-MSED-TSE",
+        "title": "Urban Teaching: Science (Mid) MSED (Special Education (K-12))",
+        "department": "USMC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTSC-CERTF",
+        "title": "Urban Teaching: Science (Middle Years) Certificate",
+        "department": "UTSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USDC-CERTF",
+        "title": "Urban Teaching: Soc St (Mid) CERTF",
+        "department": "USDC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTSM-CERTF",
+        "title": "Urban Teaching: Soc St (Mid) CERTF",
+        "department": "UTSM",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USDC-CERTF-NONE",
+        "title": "Urban Teaching: Soc St (Mid) CERTF (Non Designated)",
+        "department": "USDC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USDC-CERTF-TSE",
+        "title": "Urban Teaching: Soc St (Mid) CERTF (Special Education (K-12))",
+        "department": "USDC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USDC-MSED",
+        "title": "Urban Teaching: Soc St (Mid) MSED",
+        "department": "USDC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTSM-MSED",
+        "title": "Urban Teaching: Soc St (Mid) MSED",
+        "department": "UTSM",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USDC-MSED-ESL",
+        "title": "Urban Teaching: Soc St (Mid) MSED (ESL Specialist Certification)",
+        "department": "USDC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USDC-MSED-TSE",
+        "title": "Urban Teaching: Soc St (Mid) MSED (Special Education (K-12))",
+        "department": "USDC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USSC-CERTF",
+        "title": "Urban Teaching: Soc St (Sec) CERTF",
+        "department": "USSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTSS-CERTF",
+        "title": "Urban Teaching: Soc St (Sec) CERTF",
+        "department": "UTSS",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USSC-CERTF-NONE",
+        "title": "Urban Teaching: Soc St (Sec) CERTF (Non Designated)",
+        "department": "USSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USSC-CERTF-TSE",
+        "title": "Urban Teaching: Soc St (Sec) CERTF (Special Education (K-12))",
+        "department": "USSC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "USSC-MSED",
+        "title": "Urban Teaching: Soc St (Sec) MSED",
+        "department": "USSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTSS-MSED",
+        "title": "Urban Teaching: Soc St (Sec) MSED",
+        "department": "UTSS",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USSC-MSED-ESL",
+        "title": "Urban Teaching: Soc St (Sec) MSED (ESL Specialist Certification)",
+        "department": "USSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USSC-MSED-TSE",
+        "title": "Urban Teaching: Soc St (Sec) MSED (Special Education (K-12))",
+        "department": "USSC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTSE-MSED",
+        "title": "Urban Teaching: Spec Ed K-12 MSED",
+        "department": "UTSE",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "USEC-MSED-ESL",
+        "title": "Urban Teaching: Spec Ed K-12 MSED (ESL Specialist Certification)",
+        "department": "USEC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTSE-CERTF",
+        "title": "Urban Teaching: Special Ed K-12 Certificate",
+        "department": "UTSE",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTWC-CERTF",
+        "title": "Urban Teaching: World Lang CERTF",
+        "department": "UTWC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTWC-CERTF-ESL",
+        "title": "Urban Teaching: World Lang CERTF (ESL Specialist Certification)",
+        "department": "UTWC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTWC-CERTF-TSE",
+        "title": "Urban Teaching: World Lang CERTF (Special Education (K-12))",
+        "department": "UTWC",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTWL-CERTF",
+        "title": "Urban Teaching: World Lang Certificate",
+        "department": "UTWL",
+        "degreeType": "CERTF"
+    },
+    {
+        "program": "UTWL-MSED",
+        "title": "Urban Teaching: World Lang MSED",
+        "department": "UTWL",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTWC-MSED-ESL",
+        "title": "Urban Teaching: World Lang MSED (ESL Specialist Certification)",
+        "department": "UTWC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "UTWC-MSED-TSE",
+        "title": "Urban Teaching: World Lang MSED (Special Education (K-12))",
+        "department": "UTWC",
+        "degreeType": "MSED"
+    },
+    {
+        "program": "VET-VMD",
+        "title": "Veterinary Medicine VMD",
+        "department": "VET",
+        "degreeType": "VMD"
+    },
+    {
+        "program": "VOLT-CERT",
+        "title": "Virtual Online Teaching Prgrm CERT",
+        "department": "VOLT",
+        "degreeType": "CERT"
+    },
+    {
+        "program": "VLST-BA",
+        "title": "Visual Studies BA",
+        "department": "VLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "VLST-BA-APC",
+        "title": "Visual Studies BA (Architecture Practice & Tech)",
+        "department": "VLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "VLST-BA-APT",
+        "title": "Visual Studies BA (Art Practice and Technology)",
+        "department": "VLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "VLST-BA-ACS",
+        "title": "Visual Studies BA (Art and the Culture and Seeing)",
+        "department": "VLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "VLST-BA-PAS",
+        "title": "Visual Studies BA (Philosophy and Sci of Seeing)",
+        "department": "VLST",
+        "degreeType": "BA"
+    },
+    {
+        "program": "WIDV-BS",
+        "title": "Wharton Individualized Major BS",
+        "department": "WIDV",
+        "degreeType": "BS"
+    },
+    {
+        "program": "WIDV-MBA",
+        "title": "Wharton Individualized Major MBA",
+        "department": "WIDV",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "WIDV-MBA-EXEC",
+        "title": "Wharton Individualized Major MBA (Executive)",
+        "department": "WIDV",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "EMBA-MBA-EXEC",
+        "title": "Wharton MBA MBA (Executive)",
+        "department": "EMBA",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "WMBA-MBA",
+        "title": "Wharton MBA Prgm-Undeclared MBA",
+        "department": "WMBA",
+        "degreeType": "MBA"
+    },
+    {
+        "program": "WHGP-MSN",
+        "title": "Women's Hlth-Gender Related NP MSN",
+        "department": "WHGP",
+        "degreeType": "MSN"
+    }
+]
