@@ -4,7 +4,7 @@ The Penn Class List Scraper is a Chrome extension designed to download all class
 
 ## Usage
 
-1. Install the Chrome extension by dragging and dropping the `penn-classlist-scraper` folder into the [Chrome Extensions](chrome://extensions/) page.
+1. Install the Chrome extension by dragging and dropping [the latest release ZIP](https://github.com/jlumbroso/penn-classlist-scraper/releases/latest) into the [Chrome Extensions](chrome://extensions/) page.
 2. Navigate to the [Penn Class List](https://courses.at.upenn.edu/) page, go to "Class Lists".
 3. On the new app page, click "Query Options" > "Class List - Instructor".
 4. Click on the extension icon in the top right corner of the browser to start the extraction.

@@ -1,0 +1,44 @@
+name: 📦 Create Release and Zip Folder
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛎️ Checkout code
+        uses: actions/checkout@v3
+
+      - name: 📅 Set date and SHA variables
+        id: vars
+        run: |
+          echo "DATE=$(date +'%Y%m%d-%H%M')" >> $GITHUB_ENV
+          echo "SHA=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+          echo "TAG_NAME=v$(date +'%Y%m%d-%H%M')" >> $GITHUB_ENV
+
+      - name: 📦 Zip the extension folder
+        run: zip -r penn-classlist-scraper-$DATE.zip penn-classlist-scraper
+
+      - name: 🏷️ Create and push tag
+        run: |
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🚀 Create Release & Upload Asset
+        uses: softprops/action-gh-release@v1
+        #if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: penn-classlist-scraper-${{ env.DATE }}.zip
+          name: Release v${{ env.DATE }}
+          body: "Release for commit ${{ env.SHA }} on date ${{ env.DATE }}"
+          tag_name: ${{ env.TAG_NAME }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
