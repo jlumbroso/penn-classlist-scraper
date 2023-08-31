@@ -2,8 +2,14 @@
 // LOAD EXTERNAL RESOURCES
 // **************************************************************************
 
-let programData = [];
-let departmentCodes = [];
+// Check if programData and departmentCodes already exist before declaring them
+if (typeof programData === 'undefined') {
+    var programData = [];
+}
+
+if (typeof departmentCodes === 'undefined') {
+    var departmentCodes = [];
+}
 
 async function loadProgramData() {
     try {
@@ -233,12 +239,16 @@ async function fetchAllRecords() {
         await loadProgramData();
     }
 
+    // Variable to keep track of discrepancy between total rows and student rows
+    let none_student_row_count = 0;
+
     for (const row of tableRows) {
         try {
             // Check if the row is a section information row
             if (row.classList.contains('resultsWrappers') && row.classList.contains('ClassListTable')) {
                 currentSectionInfo = extractSectionInfo(row);
                 console.log('Detected section information row:', currentSectionInfo);
+                none_student_row_count += 1;
                 // We don't want to store section info rows in the same array as student rows
                 continue;
             } 
@@ -254,6 +264,35 @@ async function fetchAllRecords() {
 
                 data.imageBlob = await fetchAndEncodeImage(data.imageLink);
                 allData.push(data);
+
+                // ======================================================================
+                // PROGRESS BAR UPDATE ==================================================
+                const entriesProgress = allData.length;
+                const imagesProgress = allData.filter(entry => entry.imageBlob).length;
+                const totalEntries = tableRows.length - none_student_row_count;
+                const progress = (entriesProgress / totalEntries) * 100;
+
+                chrome.runtime.sendMessage({
+                    action: "updateProgress",
+                    progress: progress,
+                    entriesProgress: entriesProgress,
+                    imagesProgress: imagesProgress,
+                    totalEntries: totalEntries,
+                    status: "Fetching..."
+                });
+                console.log("Content: Sending progress update:", {
+                    progress: progress,
+                    entriesProgress: entriesProgress,
+                    imagesProgress: imagesProgress,
+                    totalEntries: totalEntries,
+                    status: "Fetching..."
+                });                
+                // ======================================================================
+            }
+            else
+            {
+                // This row was not a student
+                none_student_row_count += 1;
             }
         } catch (error) {
             console.error('Error processing row:', row, error);
@@ -281,9 +320,29 @@ function generateFilename(data) {
 // MESSAGE LISTENER
 // **************************************************************************
 
+// Flag to avoid duplicate message listeners
+let isMessageListenerSet = false;
+
+// Flag to avoid multiple extractions
+let isExtractionInProgress = false;
+
 function initializeMessageListener() {
+    if (isMessageListenerSet) {
+        console.log("Penn Class List Scraper: duplicate message listener setup blocked.");
+        return;
+    }
+
     chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         if (request.action === "startExtraction") {
+
+            // Check if extraction is already in progress
+            if (isExtractionInProgress) {
+                console.warn("Penn Class List Scraper: Extraction already in progress. Please wait for the current extraction to finish.");
+                sendResponse({ status: "error", message: "Extraction already in progress." });
+                return;
+            }
+            isExtractionInProgress = true;
+
             console.log("Penn Class List Scraper: Message received. Starting data extraction...");
 
             // Check if there are any elements with class ".pdfClassListEntry"
@@ -313,13 +372,18 @@ function initializeMessageListener() {
                             console.log("Message received:", response.message);
                         }
                     });
+                    isExtractionInProgress = false;
                 }).catch(error => {
                     console.error('Penn Class List Scraper: Error fetching all records:', error);
+                    isExtractionInProgress = false;
                 });            
             }
         }
         return true;  // This keeps the message channel open until sendResponse is called
     });
+
+    // Set flag
+    isMessageListenerSet = true;
 }
 
 if (document.readyState === "loading") {

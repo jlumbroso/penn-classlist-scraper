@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Penn Class List Scraper Progress</title>
+    <style>
+        body {
+            width: 300px;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 10px;
+        }
+        #progressBar {
+            width: 100%;
+            background-color: #f3f3f3;
+            padding: 3px;
+            border-radius: 3px;
+        }
+        #progressBar div {
+            height: 20px;
+            width: 0;
+            background-color: #4CAF50;
+            border-radius: 2px;
+        }
+        #statusText {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Extraction Progress</h2>
+    <div id="progressBar">
+        <div></div>
+    </div>
+    <p>Entries: <span id="entriesProgress">0</span>/<span id="totalEntries">0</span></p>
+    <p>Images: <span id="imagesProgress">0</span>/<span id="totalImages">0</span></p>
+    <p>Status: <span id="status">Idle</span></p>
+
+    <script src="popup.js"></script>
+</body>
+</html>
